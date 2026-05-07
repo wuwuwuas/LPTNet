@@ -1,0 +1,34 @@
+# Frame Range: [startID,endID]
+0,20
+# Frame Rate: [Hz]
+1
+# Number of Threads: (0: use as many as possible)
+12
+# Number of Cameras: 
+4
+# Camera File Path, Max Intensity
+test/ISO_TR_0.01ppp/cam0.txt,255
+test/ISO_TR_0.01ppp/cam1.txt,255
+test/ISO_TR_0.01ppp/cam2.txt,255
+test/ISO_TR_0.01ppp/cam3.txt,255
+# Image File Path
+test/ISO_TR_0.01ppp/cam0ImageNames.txt
+test/ISO_TR_0.01ppp/cam1ImageNames.txt
+test/ISO_TR_0.01ppp/cam2ImageNames.txt
+test/ISO_TR_0.01ppp/cam3ImageNames.txt
+# View Volume: (xmin,xmax,ymin,ymax,zmin,zmax)
+-2,2,-2,2,0,2
+# Voxel to MM: e.g. use 1000^3 voxel, (xmax-xmin)/1000
+0.005
+# Output Folder Path: 
+./test/ISO_TR_0.01ppp/results 0.01ppp_NND/
+# Object Types: 
+Tracer
+# STB Config Files:
+./test/ISO_TR_0.01ppp/tracerConfig_0.01.txt
+# Flag to load previous track files, previous frameID
+0,-1
+# Path to active long track files
+./test/ISO_TR_0.01ppp/results 0.01ppp_NND/ConvergeTrack/LongTrackActive_15.csv
+# Path to active short track files
+./test/ISO_TR_0.01ppp/results 0.01ppp_NND/ConvergeTrack/ShortTrackActive_15.csv

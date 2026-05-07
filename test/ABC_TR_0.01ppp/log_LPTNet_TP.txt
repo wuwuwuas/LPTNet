@@ -1,0 +1,728 @@
+Frame:  0
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  7970 7997 7992 8014
+      Matched and shaked 3D objects: 7555
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  445 445 434 427
+      Matched and shaked 3D objects: 273
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  163 164 153 158
+      Matched and shaked 3D objects: 15
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  148 149 138 144
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  148 149 138 0
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  147 148 137 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  147 148 0 144
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  146 147 0 143
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  146 0 137 143
+      Matched and shaked 3D objects: 7
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  139 0 130 136
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 147 129 135
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 144 126 132
+Frame:  1
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  8077 8066 8053 8052
+      Matched and shaked 3D objects: 7601
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  452 468 462 467
+      Matched and shaked 3D objects: 285
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  163 180 177 175
+      Matched and shaked 3D objects: 17
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  147 164 162 158
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  145 161 159 0
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  140 156 154 0
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  139 155 0 156
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  136 152 0 153
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  136 0 153 153
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  131 0 148 148
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 152 148 148
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 149 145 145
+Matched points: 7602
+Frame:  2
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  8062 8054 8044 8085
+      Matched and shaked 3D objects: 7555
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  520 502 496 511
+      Matched and shaked 3D objects: 327
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  191 166 172 174
+      Matched and shaked 3D objects: 18
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  173 148 153 157
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  173 148 153 0
+      Matched and shaked 3D objects: 7
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  165 141 146 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  165 141 0 157
+      Matched and shaked 3D objects: 6
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  159 135 0 151
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  158 0 145 150
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  155 0 142 147
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 134 141 146
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 129 137 142
+Matched points: 7664
+Frame:  3
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  7996 8040 8013 8003
+      Matched and shaked 3D objects: 7544
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  457 456 460 481
+      Matched and shaked 3D objects: 300
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  149 155 161 176
+      Matched and shaked 3D objects: 9
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  140 147 152 167
+      Matched and shaked 3D objects: 2
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  139 145 150 0
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  135 141 146 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  135 141 0 165
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  131 137 0 161
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  131 0 145 161
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  126 0 140 156
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 136 140 156
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 133 137 153
+Matched points: 7620
+Frame:  4
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  7978 7973 7973 7995
+      Matched and shaked 3D objects: 7519
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  474 460 449 482
+      Matched and shaked 3D objects: 295
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  172 167 153 189
+      Matched and shaked 3D objects: 11
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  161 156 142 178
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  161 156 142 0
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  160 155 141 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  160 155 0 178
+      Matched and shaked 3D objects: 9
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  151 146 0 169
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  151 0 141 169
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  147 0 137 165
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 146 137 165
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 142 133 161
+Matched points: 7600
+Frame:  5
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  7986 8009 8004 8002
+      Matched and shaked 3D objects: 7511
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  511 477 496 485
+      Matched and shaked 3D objects: 310
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  193 167 181 170
+      Matched and shaked 3D objects: 15
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  178 152 166 155
+      Matched and shaked 3D objects: 2
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  176 151 165 0
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  172 147 161 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  172 147 0 153
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  168 143 0 149
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  168 0 161 149
+      Matched and shaked 3D objects: 8
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  160 0 153 142
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 143 153 142
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 139 149 138
+Matched points: 7615
+Frame:  6
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  8017 7998 8010 8000
+      Matched and shaked 3D objects: 7502
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  497 492 500 494
+      Matched and shaked 3D objects: 326
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  172 166 172 166
+      Matched and shaked 3D objects: 15
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  157 154 156 151
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  154 152 154 0
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  151 149 151 0
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  150 148 0 148
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  145 143 0 143
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  145 0 150 143
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  140 0 145 138
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 143 144 137
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 138 139 132
+      Matched and shaked 3D objects: 1
+Matched points: 7617
+Frame:  7
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  8058 8054 8069 8064
+      Matched and shaked 3D objects: 7598
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  452 448 454 461
+      Matched and shaked 3D objects: 281
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  170 173 169 180
+      Matched and shaked 3D objects: 18
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  152 155 151 163
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  151 154 150 0
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  146 149 145 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  146 149 0 162
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  143 146 0 159
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  143 0 145 159
+      Matched and shaked 3D objects: 9
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  134 0 136 150
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 146 136 150
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 143 133 147
+Matched points: 7644
+Frame:  8
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  8073 8086 8074 8078
+      Matched and shaked 3D objects: 7598
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  472 477 483 490
+      Matched and shaked 3D objects: 301
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  159 178 187 188
+      Matched and shaked 3D objects: 19
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  140 159 169 168
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  139 158 168 0
+      Matched and shaked 3D objects: 6
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  133 152 162 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  133 152 0 167
+      Matched and shaked 3D objects: 6
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  127 146 0 161
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  126 0 162 160
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  123 0 159 157
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 145 158 156
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 140 153 151
+Matched points: 7686
+Frame:  9
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  8098 8113 8094 8093
+      Matched and shaked 3D objects: 7608
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  480 490 486 485
+      Matched and shaked 3D objects: 309
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  173 178 174 174
+      Matched and shaked 3D objects: 17
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  156 161 157 156
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  155 160 157 0
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  150 155 152 0
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  149 154 0 155
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  149 154 0 155
+      Matched and shaked 3D objects: 2
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  147 0 151 153
+      Matched and shaked 3D objects: 7
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  140 0 144 146
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 152 144 146
+      Matched and shaked 3D objects: 2
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 150 142 144
+Matched points: 7695
+Frame:  10
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  8072 8070 8065 8092
+      Matched and shaked 3D objects: 7579
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  492 482 534 500
+      Matched and shaked 3D objects: 313
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  175 169 211 192
+      Matched and shaked 3D objects: 26
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  149 144 184 165
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  149 144 184 0
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  145 140 180 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  145 140 0 165
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  142 137 0 162
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  142 0 180 162
+      Matched and shaked 3D objects: 7
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  136 0 173 155
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 137 173 155
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 133 169 151
+      Matched and shaked 3D objects: 1
+Matched points: 7698
+Frame:  11
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  8109 8094 8091 8097
+      Matched and shaked 3D objects: 7623
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  473 483 496 477
+      Matched and shaked 3D objects: 308
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  158 178 182 167
+      Matched and shaked 3D objects: 11
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  147 167 171 155
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  146 166 170 0
+      Matched and shaked 3D objects: 7
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  139 159 163 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  139 159 0 154
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  135 155 0 150
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  135 0 163 150
+      Matched and shaked 3D objects: 6
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  129 0 157 144
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 155 157 144
+      Matched and shaked 3D objects: 2
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 153 155 142
+Matched points: 7696
+Frame:  12
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  8107 8077 8099 8097
+      Matched and shaked 3D objects: 7606
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  490 467 501 500
+      Matched and shaked 3D objects: 309
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  180 162 187 194
+      Matched and shaked 3D objects: 23
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  158 140 164 171
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  156 139 163 0
+      Matched and shaked 3D objects: 6
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  150 133 156 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  150 133 0 170
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  146 129 0 166
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  146 0 156 166
+      Matched and shaked 3D objects: 7
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  139 0 149 159
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 129 148 158
+      Matched and shaked 3D objects: 6
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 123 142 152
+Matched points: 7696
+Frame:  13
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  8124 8115 8108 8114
+      Matched and shaked 3D objects: 7660
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  446 438 459 461
+      Matched and shaked 3D objects: 268
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  180 166 191 191
+      Matched and shaked 3D objects: 15
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  165 153 176 175
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  162 151 173 0
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  157 146 168 0
+      Matched and shaked 3D objects: 2
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  155 144 0 174
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  150 139 0 169
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  149 0 166 168
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  144 0 161 163
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 138 161 163
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 133 156 158
+Matched points: 7715
+Frame:  14
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  8054 7990 8036 8012
+      Matched and shaked 3D objects: 7551
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  490 473 482 478
+      Matched and shaked 3D objects: 301
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  187 172 181 175
+      Matched and shaked 3D objects: 22
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  165 150 158 153
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  165 150 158 0
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  161 146 154 0
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  160 145 0 153
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  156 140 0 149
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  155 0 153 148
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  151 0 149 144
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 139 149 144
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 135 145 140
+      Matched and shaked 3D objects: 1
+Matched points: 7663
+Frame:  15
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  7995 7988 8018 7972
+      Matched and shaked 3D objects: 7512
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  498 491 514 482
+      Matched and shaked 3D objects: 314
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  181 180 196 167
+      Matched and shaked 3D objects: 17
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  164 162 179 152
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  163 161 178 0
+      Matched and shaked 3D objects: 7
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  156 154 171 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  156 154 0 151
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  154 151 0 148
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  154 0 171 148
+      Matched and shaked 3D objects: 9
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  145 0 162 139
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 151 162 139
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 147 158 135
+Matched points: 7613
+Frame:  16
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  7990 7975 8026 7941
+      Matched and shaked 3D objects: 7525
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  437 445 472 452
+      Matched and shaked 3D objects: 276
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  163 172 194 167
+      Matched and shaked 3D objects: 19
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  144 153 174 148
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  143 152 174 0
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  140 149 171 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  140 149 0 147
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  136 145 0 143
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  136 0 171 143
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  132 0 167 139
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 145 167 139
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 140 162 134
+      Matched and shaked 3D objects: 1
+Matched points: 7591
+Frame:  17
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  7999 8008 7995 7987
+      Matched and shaked 3D objects: 7544
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  434 463 445 456
+      Matched and shaked 3D objects: 288
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  145 168 159 167
+      Matched and shaked 3D objects: 16
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  129 153 144 151
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  129 153 144 0
+      Matched and shaked 3D objects: 6
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  123 147 138 0
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  122 146 0 151
+      Matched and shaked 3D objects: 2
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  120 144 0 148
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  120 0 137 148
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  117 0 134 145
+      Matched and shaked 3D objects: 2
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 144 132 143
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 139 127 138
+Matched points: 7602
+Frame:  18
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  7994 8001 7978 8002
+      Matched and shaked 3D objects: 7539
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  443 426 447 446
+      Matched and shaked 3D objects: 270
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  173 160 175 172
+      Matched and shaked 3D objects: 19
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  154 141 158 153
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  153 140 157 0
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  150 137 154 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  150 137 0 152
+      Matched and shaked 3D objects: 4
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  146 133 0 148
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  146 0 154 148
+      Matched and shaked 3D objects: 7
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  139 0 147 141
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 133 147 141
+      Matched and shaked 3D objects: 3
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 130 144 138
+Matched points: 7602
+Frame:  19
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  7959 7965 7953 7933
+      Matched and shaked 3D objects: 7487
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  441 451 443 453
+      Matched and shaked 3D objects: 288
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  153 157 159 160
+      Matched and shaked 3D objects: 18
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  137 140 141 141
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  137 140 141 0
+      Matched and shaked 3D objects: 7
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  130 133 134 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  130 133 0 141
+      Matched and shaked 3D objects: 2
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  128 131 0 139
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  128 0 134 139
+      Matched and shaked 3D objects: 2
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  126 0 132 137
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 131 131 136
+      Matched and shaked 3D objects: 2
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 129 129 134
+Matched points: 7582
+Frame:  20
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  7945 7904 7954 7930
+      Matched and shaked 3D objects: 7494
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  430 418 425 445
+      Matched and shaked 3D objects: 262
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  164 158 164 184
+      Matched and shaked 3D objects: 11
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  152 148 153 173
+      Matched and shaked 3D objects: 1
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  151 147 153 0
+      Matched and shaked 3D objects: 7
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  143 140 146 0
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  143 140 0 172
+      Matched and shaked 3D objects: 6
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  137 134 0 166
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  137 0 146 166
+      Matched and shaked 3D objects: 5
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  132 0 141 161
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 134 141 161
+      Matched and shaked 3D objects: 6
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 128 135 155
+Matched points: 7524
+Total time 170.24043488968164 seconds

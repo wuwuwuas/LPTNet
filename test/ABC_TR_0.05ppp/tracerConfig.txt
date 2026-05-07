@@ -1,0 +1,40 @@
+############################
+######### Tracking #########
+############################
+######### Initial Phase ############## 
+15 # Search radius for connecting tracks to objects
+4 # Number of frames for initial phase
+######### Convergence Phase ############# 
+30 # Avg Interparticle spacing. (vox) to identify neighbour tracks 
+
+#########################
+######### Shake #########
+#########################
+.25 # shake width 0.25
+
+#################################
+######### Predict Field #########
+#################################
+51 # xgrid 
+51 # ygrid
+51 # zgrid
+25 # searchRadius [voxel]
+
+#######################
+######### IPR #########
+#######################
+3   # No. of IPR loop
+6   # No. of Shake loop
+0.1 # ghost threshold
+0.5   # 2D tolerance [px]
+1.0  # 3D tolerance [voxel]
+
+1 # number of reduced camera
+2 # no. of ipr loops for each reduced camera combination
+
+
+###############################
+######### Object Info #########
+###############################
+30 # 2D particle finder threshold
+2 # Particle radius [px], for calculating residue image and shaking

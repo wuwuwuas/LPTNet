@@ -1,0 +1,941 @@
+Python STB Initialized. Init Frames: 4
+
+>>> Processing Frame 0
+  [Phase] Init Collection
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  21561 21678 21680 21727
+      Matched and shaked 3D objects: 10185
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  13297 13322 13382 13313
+      Matched and shaked 3D objects: 6179
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  8428 8463 8488 8400
+      Matched and shaked 3D objects: 4131
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  4899 4964 4943 4841
+      Matched and shaked 3D objects: 1644
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  3427 3501 3500 0
+      Matched and shaked 3D objects: 615
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  2823 2895 2904 0
+      Matched and shaked 3D objects: 331
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  2499 2567 0 3246
+      Matched and shaked 3D objects: 434
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  2075 2141 0 2809
+      Matched and shaked 3D objects: 205
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1876 0 2563 2609
+      Matched and shaked 3D objects: 387
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  1498 0 2178 2221
+      Matched and shaked 3D objects: 216
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1922 1956 2009
+      Matched and shaked 3D objects: 351
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 1575 1601 1659
+      Matched and shaked 3D objects: 173
+  -> Found 24851 particles.
+    Frame Time: 3.5225s
+
+>>> Processing Frame 1
+  [Phase] Init Collection
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  21603 21726 21592 21689
+      Matched and shaked 3D objects: 10057
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  13482 13439 13444 13409
+      Matched and shaked 3D objects: 6186
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  8583 8500 8569 8535
+      Matched and shaked 3D objects: 4149
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  5101 5021 5035 4971
+      Matched and shaked 3D objects: 1775
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  3543 3433 3452 0
+      Matched and shaked 3D objects: 560
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  2994 2886 2902 0
+      Matched and shaked 3D objects: 349
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  2649 2558 0 3258
+      Matched and shaked 3D objects: 410
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  2242 2152 0 2855
+      Matched and shaked 3D objects: 240
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  2010 0 2548 2618
+      Matched and shaked 3D objects: 386
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  1637 0 2164 2235
+      Matched and shaked 3D objects: 194
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1904 1975 2047
+      Matched and shaked 3D objects: 344
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 1569 1630 1708
+      Matched and shaked 3D objects: 164
+  -> Found 24814 particles.
+    Frame Time: 3.3120s
+
+>>> Processing Frame 2
+  [Phase] Init Collection
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  21794 21630 21640 21721
+      Matched and shaked 3D objects: 10086
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  13545 13431 13415 13490
+      Matched and shaked 3D objects: 6262
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  8619 8415 8536 8444
+      Matched and shaked 3D objects: 4098
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  5106 4968 5027 4977
+      Matched and shaked 3D objects: 1717
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  3613 3442 3516 0
+      Matched and shaked 3D objects: 579
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  3056 2872 2953 0
+      Matched and shaked 3D objects: 360
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  2707 2533 0 3332
+      Matched and shaked 3D objects: 406
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  2307 2127 0 2929
+      Matched and shaked 3D objects: 235
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  2073 0 2569 2703
+      Matched and shaked 3D objects: 419
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  1657 0 2159 2281
+      Matched and shaked 3D objects: 206
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1873 1954 2078
+      Matched and shaked 3D objects: 332
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 1547 1626 1750
+      Matched and shaked 3D objects: 183
+  -> Found 24883 particles.
+    Frame Time: 3.5711s
+
+>>> Processing Frame 3
+  [Phase] Init Collection
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  21835 21683 21848 21706
+      Matched and shaked 3D objects: 10125
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  13516 13428 13478 13451
+      Matched and shaked 3D objects: 6184
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  8650 8598 8639 8567
+      Matched and shaked 3D objects: 4251
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  5039 4922 5025 4921
+      Matched and shaked 3D objects: 1717
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  3507 3411 3489 0
+      Matched and shaked 3D objects: 555
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  2965 2857 2946 0
+      Matched and shaked 3D objects: 312
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  2664 2554 0 3269
+      Matched and shaked 3D objects: 414
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  2255 2145 0 2858
+      Matched and shaked 3D objects: 234
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  2027 0 2623 2631
+      Matched and shaked 3D objects: 415
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  1620 0 2208 2222
+      Matched and shaked 3D objects: 223
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1906 1997 2011
+      Matched and shaked 3D objects: 372
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 1536 1625 1633
+      Matched and shaked 3D objects: 149
+  -> Found 24951 particles.
+
+  [Phase] Building Initial Tracks over 4 frames...
+    Initializing tracks at Frame 0...
+Frame 0 -> 1 | Particles: 24851 -> 24814 | Tracker connections: 22576
+Frame 1 -> 2 | Particles: 25638 -> 24883 | Tracker connections: 23357
+Frame 2 -> 3 | Particles: 26466 -> 24951 | Tracker connections: 24160
+    Promoting valid tracks...
+    [Init Done] Promoted to Long: 19413, Remaining Short: 7842
+  [Save] Tracks saved to test/ISO_TR_0.05ppp/results 0.05ppp_STB_P/InitialTrack/
+    Frame Time: 9.7475s
+
+>>> Processing Frame 4
+  [Phase] Convergence Frame 4
+    [Predict] Ready to Shake: 19147
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  8657 8649 8652 8530
+      Matched and shaked 3D objects: 2828
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  5911 5902 5903 5773
+      Matched and shaked 3D objects: 1813
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  4177 4176 4202 4054
+      Matched and shaked 3D objects: 1014
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  3229 3226 3246 3091
+      Matched and shaked 3D objects: 398
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  2870 2870 2897 0
+      Matched and shaked 3D objects: 470
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  2401 2403 2428 0
+      Matched and shaked 3D objects: 207
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  2195 2196 0 2716
+      Matched and shaked 3D objects: 349
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1843 1843 0 2361
+      Matched and shaked 3D objects: 161
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1683 0 2211 2200
+      Matched and shaked 3D objects: 328
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  1351 0 1880 1871
+      Matched and shaked 3D objects: 165
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1683 1718 1707
+      Matched and shaked 3D objects: 320
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 1363 1403 1383
+      Matched and shaked 3D objects: 115
+    [IPR] Found 8168 objects.
+    [Stats] Short Active: 5476 (LinkOk: 6139, Promoted: 2047, New: 2015, Died: 1703)
+    [Stats] Long Active:  18629 (PredOk: 19147, ShakeOk: 18844, LF_Fail: 1398)
+    Frame Time: 6.4577s
+
+>>> Processing Frame 5
+  [Phase] Convergence Frame 5
+    [Predict] Ready to Shake: 18411
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  8504 8469 8414 8444
+      Matched and shaked 3D objects: 3063
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  5518 5499 5430 5461
+      Matched and shaked 3D objects: 1856
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  3714 3707 3643 3660
+      Matched and shaked 3D objects: 1025
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  2743 2751 2688 2698
+      Matched and shaked 3D objects: 355
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  2421 2422 2372 0
+      Matched and shaked 3D objects: 359
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  2054 2067 2013 0
+      Matched and shaked 3D objects: 146
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1910 1923 0 2363
+      Matched and shaked 3D objects: 312
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1605 1616 0 2051
+      Matched and shaked 3D objects: 147
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1457 0 1858 1906
+      Matched and shaked 3D objects: 290
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  1167 0 1569 1608
+      Matched and shaked 3D objects: 133
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1469 1437 1474
+      Matched and shaked 3D objects: 302
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 1160 1134 1166
+      Matched and shaked 3D objects: 106
+    [IPR] Found 8094 objects.
+    [Stats] Short Active: 6134 (LinkOk: 4933, Promoted: 1662, New: 3152, Died: 543)
+    [Stats] Long Active:  19414 (PredOk: 18411, ShakeOk: 18384, LF_Fail: 248)
+    Frame Time: 6.3715s
+
+>>> Processing Frame 6
+  [Phase] Convergence Frame 6
+    [Predict] Ready to Shake: 19194
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  7758 7815 7827 7686
+      Matched and shaked 3D objects: 2794
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  5045 5085 5088 4948
+      Matched and shaked 3D objects: 1698
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  3416 3448 3455 3330
+      Matched and shaked 3D objects: 897
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  2563 2590 2593 2474
+      Matched and shaked 3D objects: 289
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  2308 2324 2329 0
+      Matched and shaked 3D objects: 337
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1966 1983 1997 0
+      Matched and shaked 3D objects: 168
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1800 1813 0 2218
+      Matched and shaked 3D objects: 298
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1500 1514 0 1920
+      Matched and shaked 3D objects: 121
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1379 0 1825 1797
+      Matched and shaked 3D objects: 267
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  1113 0 1556 1528
+      Matched and shaked 3D objects: 127
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1383 1432 1401
+      Matched and shaked 3D objects: 252
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 1131 1180 1147
+      Matched and shaked 3D objects: 115
+    [IPR] Found 7363 objects.
+    [Stats] Short Active: 5570 (LinkOk: 5447, Promoted: 1458, New: 1902, Died: 687)
+    [Stats] Long Active:  20164 (PredOk: 19194, ShakeOk: 19190, LF_Fail: 212)
+    Frame Time: 6.6476s
+
+>>> Processing Frame 7
+  [Phase] Convergence Frame 7
+    [Predict] Ready to Shake: 19931
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  7195 7099 7241 7084
+      Matched and shaked 3D objects: 2578
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  4656 4561 4688 4541
+      Matched and shaked 3D objects: 1530
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  3167 3082 3204 3057
+      Matched and shaked 3D objects: 807
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  2397 2318 2437 2283
+      Matched and shaked 3D objects: 251
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  2171 2086 2217 0
+      Matched and shaked 3D objects: 329
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1835 1752 1882 0
+      Matched and shaked 3D objects: 139
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1692 1615 0 2052
+      Matched and shaked 3D objects: 223
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1467 1389 0 1824
+      Matched and shaked 3D objects: 108
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1358 0 1738 1718
+      Matched and shaked 3D objects: 261
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  1095 0 1473 1456
+      Matched and shaked 3D objects: 126
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1281 1344 1331
+      Matched and shaked 3D objects: 218
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 1064 1121 1110
+      Matched and shaked 3D objects: 96
+    [IPR] Found 6666 objects.
+    [Stats] Short Active: 5149 (LinkOk: 4924, Promoted: 1225, New: 1734, Died: 646)
+    [Stats] Long Active:  20741 (PredOk: 19931, ShakeOk: 19923, LF_Fail: 166)
+    Frame Time: 6.9512s
+
+>>> Processing Frame 8
+  [Phase] Convergence Frame 8
+    [Predict] Ready to Shake: 20499
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  6710 6680 6686 6589
+      Matched and shaked 3D objects: 2403
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  4346 4316 4302 4216
+      Matched and shaked 3D objects: 1342
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  3044 3008 3010 2901
+      Matched and shaked 3D objects: 769
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  2315 2277 2272 2162
+      Matched and shaked 3D objects: 227
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  2109 2071 2063 0
+      Matched and shaked 3D objects: 286
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1821 1785 1775 0
+      Matched and shaked 3D objects: 121
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1701 1664 0 1942
+      Matched and shaked 3D objects: 265
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1435 1397 0 1678
+      Matched and shaked 3D objects: 101
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1335 0 1654 1575
+      Matched and shaked 3D objects: 224
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  1109 0 1426 1351
+      Matched and shaked 3D objects: 101
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1289 1325 1248
+      Matched and shaked 3D objects: 236
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 1053 1086 1009
+      Matched and shaked 3D objects: 97
+    [IPR] Found 6172 objects.
+    [Stats] Short Active: 4010 (LinkOk: 4590, Promoted: 1930, New: 1568, Died: 559)
+    [Stats] Long Active:  21930 (PredOk: 20499, ShakeOk: 20492, LF_Fail: 185)
+    Frame Time: 7.2947s
+
+>>> Processing Frame 9
+  [Phase] Convergence Frame 9
+    [Predict] Ready to Shake: 21672
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  5769 5668 5738 5694
+      Matched and shaked 3D objects: 1985
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  3787 3687 3771 3728
+      Matched and shaked 3D objects: 1173
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  2649 2546 2620 2574
+      Matched and shaked 3D objects: 582
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  2085 1980 2057 2002
+      Matched and shaked 3D objects: 172
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  1933 1826 1901 0
+      Matched and shaked 3D objects: 239
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1692 1588 1659 0
+      Matched and shaked 3D objects: 99
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1593 1485 0 1830
+      Matched and shaked 3D objects: 211
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1380 1269 0 1616
+      Matched and shaked 3D objects: 99
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1282 0 1553 1516
+      Matched and shaked 3D objects: 210
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  1071 0 1341 1306
+      Matched and shaked 3D objects: 94
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1164 1248 1213
+      Matched and shaked 3D objects: 197
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 968 1049 1016
+      Matched and shaked 3D objects: 61
+    [IPR] Found 5122 objects.
+    [Stats] Short Active: 3792 (LinkOk: 3579, Promoted: 1113, New: 1532, Died: 431)
+    [Stats] Long Active:  22417 (PredOk: 21672, ShakeOk: 21668, LF_Fail: 132)
+    Frame Time: 6.4320s
+
+>>> Processing Frame 10
+  [Phase] Convergence Frame 10
+    [Predict] Ready to Shake: 22189
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  5310 5278 5320 5230
+      Matched and shaked 3D objects: 1852
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  3467 3430 3477 3403
+      Matched and shaked 3D objects: 1050
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  2445 2394 2447 2382
+      Matched and shaked 3D objects: 506
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  1953 1899 1955 1885
+      Matched and shaked 3D objects: 147
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  1826 1765 1815 0
+      Matched and shaked 3D objects: 223
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1600 1540 1588 0
+      Matched and shaked 3D objects: 107
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1492 1433 0 1742
+      Matched and shaked 3D objects: 208
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1281 1223 0 1530
+      Matched and shaked 3D objects: 79
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1202 0 1483 1453
+      Matched and shaked 3D objects: 201
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  1002 0 1280 1251
+      Matched and shaked 3D objects: 79
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1143 1201 1173
+      Matched and shaked 3D objects: 182
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 961 1018 989
+      Matched and shaked 3D objects: 71
+    [IPR] Found 4705 objects.
+    [Stats] Short Active: 3445 (LinkOk: 3368, Promoted: 1045, New: 1309, Died: 424)
+    [Stats] Long Active:  22869 (PredOk: 22189, ShakeOk: 22180, LF_Fail: 120)
+    Frame Time: 6.3810s
+
+>>> Processing Frame 11
+  [Phase] Convergence Frame 11
+    [Predict] Ready to Shake: 22646
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  4954 4898 4928 4830
+      Matched and shaked 3D objects: 1705
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  3255 3213 3224 3129
+      Matched and shaked 3D objects: 918
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  2352 2316 2329 2233
+      Matched and shaked 3D objects: 487
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  1876 1838 1852 1753
+      Matched and shaked 3D objects: 126
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  1763 1715 1734 0
+      Matched and shaked 3D objects: 204
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1559 1507 1528 0
+      Matched and shaked 3D objects: 102
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1455 1402 0 1631
+      Matched and shaked 3D objects: 189
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1267 1210 0 1437
+      Matched and shaked 3D objects: 75
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1189 0 1420 1363
+      Matched and shaked 3D objects: 183
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  1002 0 1237 1177
+      Matched and shaked 3D objects: 68
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1132 1171 1104
+      Matched and shaked 3D objects: 159
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 972 1012 944
+      Matched and shaked 3D objects: 75
+    [IPR] Found 4291 objects.
+    [Stats] Short Active: 3137 (LinkOk: 3083, Promoted: 972, New: 1185, Died: 362)
+    [Stats] Long Active:  23303 (PredOk: 22646, ShakeOk: 22643, LF_Fail: 112)
+    Frame Time: 6.7465s
+
+>>> Processing Frame 12
+  [Phase] Convergence Frame 12
+    [Predict] Ready to Shake: 23037
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  4619 4555 4599 4532
+      Matched and shaked 3D objects: 1529
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  3111 3042 3086 3016
+      Matched and shaked 3D objects: 898
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  2226 2153 2197 2124
+      Matched and shaked 3D objects: 460
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  1782 1698 1748 1673
+      Matched and shaked 3D objects: 100
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  1687 1605 1658 0
+      Matched and shaked 3D objects: 177
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1506 1426 1477 0
+      Matched and shaked 3D objects: 88
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1418 1337 0 1578
+      Matched and shaked 3D objects: 172
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1243 1163 0 1405
+      Matched and shaked 3D objects: 76
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1164 0 1384 1328
+      Matched and shaked 3D objects: 166
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  1000 0 1218 1160
+      Matched and shaked 3D objects: 80
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1085 1137 1078
+      Matched and shaked 3D objects: 150
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 934 987 928
+      Matched and shaked 3D objects: 60
+    [IPR] Found 3956 objects.
+    [Stats] Short Active: 2862 (LinkOk: 2807, Promoted: 929, New: 1129, Died: 330)
+    [Stats] Long Active:  23628 (PredOk: 23037, ShakeOk: 23037, LF_Fail: 119)
+    Frame Time: 7.0165s
+
+>>> Processing Frame 13
+  [Phase] Convergence Frame 13
+    [Predict] Ready to Shake: 23391
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  4321 4314 4315 4219
+      Matched and shaked 3D objects: 1420
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  2908 2884 2897 2796
+      Matched and shaked 3D objects: 830
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  2088 2057 2067 1973
+      Matched and shaked 3D objects: 393
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  1702 1678 1678 1583
+      Matched and shaked 3D objects: 105
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  1606 1582 1584 0
+      Matched and shaked 3D objects: 195
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1410 1383 1387 0
+      Matched and shaked 3D objects: 68
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1343 1316 0 1483
+      Matched and shaked 3D objects: 173
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1169 1143 0 1308
+      Matched and shaked 3D objects: 55
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1112 0 1314 1252
+      Matched and shaked 3D objects: 164
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  946 0 1147 1085
+      Matched and shaked 3D objects: 63
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1088 1082 1023
+      Matched and shaked 3D objects: 164
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 922 916 855
+      Matched and shaked 3D objects: 48
+    [IPR] Found 3678 objects.
+    [Stats] Short Active: 2688 (LinkOk: 2582, Promoted: 807, New: 1074, Died: 280)
+    [Stats] Long Active:  23909 (PredOk: 23391, ShakeOk: 23382, LF_Fail: 83)
+    Frame Time: 8.0760s
+
+>>> Processing Frame 14
+  [Phase] Convergence Frame 14
+    [Predict] Ready to Shake: 23652
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  4065 4103 4170 4089
+      Matched and shaked 3D objects: 1383
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  2699 2735 2780 2692
+      Matched and shaked 3D objects: 785
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  1920 1960 1999 1915
+      Matched and shaked 3D objects: 345
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  1576 1620 1661 1574
+      Matched and shaked 3D objects: 109
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  1474 1515 1563 0
+      Matched and shaked 3D objects: 149
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1326 1367 1413 0
+      Matched and shaked 3D objects: 80
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1246 1284 0 1461
+      Matched and shaked 3D objects: 142
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1101 1140 0 1318
+      Matched and shaked 3D objects: 56
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1044 0 1328 1263
+      Matched and shaked 3D objects: 164
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  879 0 1164 1096
+      Matched and shaked 3D objects: 64
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1079 1097 1032
+      Matched and shaked 3D objects: 157
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 919 935 875
+      Matched and shaked 3D objects: 58
+    [IPR] Found 3492 objects.
+    [Stats] Short Active: 2625 (LinkOk: 2435, Promoted: 736, New: 1026, Died: 253)
+    [Stats] Long Active:  24119 (PredOk: 23652, ShakeOk: 23649, LF_Fail: 83)
+    Frame Time: 8.1858s
+
+>>> Processing Frame 15
+  [Phase] Convergence Frame 15
+    [Predict] Ready to Shake: 23856
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  4004 3957 4025 3946
+      Matched and shaked 3D objects: 1363
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  2638 2595 2653 2584
+      Matched and shaked 3D objects: 726
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  1918 1871 1934 1858
+      Matched and shaked 3D objects: 340
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  1582 1541 1596 1528
+      Matched and shaked 3D objects: 90
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  1493 1457 1515 0
+      Matched and shaked 3D objects: 154
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1339 1296 1360 0
+      Matched and shaked 3D objects: 72
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1265 1223 0 1431
+      Matched and shaked 3D objects: 125
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1139 1096 0 1304
+      Matched and shaked 3D objects: 54
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1083 0 1287 1250
+      Matched and shaked 3D objects: 146
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  936 0 1142 1102
+      Matched and shaked 3D objects: 64
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1043 1076 1037
+      Matched and shaked 3D objects: 126
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 915 946 906
+      Matched and shaked 3D objects: 59
+    [IPR] Found 3319 objects.
+    [Stats] Short Active: 2439 (LinkOk: 2345, Promoted: 718, New: 942, Died: 280)
+    [Stats] Long Active:  24292 (PredOk: 23856, ShakeOk: 23853, LF_Fail: 87)
+    Frame Time: 8.4188s
+
+>>> Processing Frame 16
+  [Phase] Convergence Frame 16
+    [Predict] Ready to Shake: 24048
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  3905 3809 3862 3781
+      Matched and shaked 3D objects: 1345
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  2552 2479 2518 2434
+      Matched and shaked 3D objects: 677
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  1879 1806 1851 1762
+      Matched and shaked 3D objects: 322
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  1566 1479 1532 1441
+      Matched and shaked 3D objects: 68
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  1500 1414 1469 0
+      Matched and shaked 3D objects: 158
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1336 1256 1309 0
+      Matched and shaked 3D objects: 54
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1281 1201 0 1376
+      Matched and shaked 3D objects: 131
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1149 1068 0 1243
+      Matched and shaked 3D objects: 49
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1100 0 1253 1194
+      Matched and shaked 3D objects: 158
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  941 0 1094 1033
+      Matched and shaked 3D objects: 54
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1017 1040 977
+      Matched and shaked 3D objects: 112
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 906 927 865
+      Matched and shaked 3D objects: 45
+    [IPR] Found 3173 objects.
+    [Stats] Short Active: 2331 (LinkOk: 2194, Promoted: 702, New: 952, Died: 245)
+    [Stats] Long Active:  24489 (PredOk: 24048, ShakeOk: 24043, LF_Fail: 96)
+    Frame Time: 7.9242s
+
+>>> Processing Frame 17
+  [Phase] Convergence Frame 17
+    [Predict] Ready to Shake: 24243
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  3779 3628 3723 3583
+      Matched and shaked 3D objects: 1239
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  2535 2386 2494 2346
+      Matched and shaked 3D objects: 644
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  1896 1744 1841 1711
+      Matched and shaked 3D objects: 305
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  1596 1443 1545 1402
+      Matched and shaked 3D objects: 58
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  1539 1384 1492 0
+      Matched and shaked 3D objects: 155
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1382 1227 1337 0
+      Matched and shaked 3D objects: 66
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1315 1161 0 1343
+      Matched and shaked 3D objects: 143
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1166 1016 0 1199
+      Matched and shaked 3D objects: 42
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1124 0 1272 1158
+      Matched and shaked 3D objects: 152
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  972 0 1117 1004
+      Matched and shaked 3D objects: 62
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 974 1054 941
+      Matched and shaked 3D objects: 113
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 857 940 827
+      Matched and shaked 3D objects: 47
+    [IPR] Found 3026 objects.
+    [Stats] Short Active: 2227 (LinkOk: 2110, Promoted: 659, New: 878, Died: 221)
+    [Stats] Long Active:  24625 (PredOk: 24243, ShakeOk: 24238, LF_Fail: 89)
+    Frame Time: 8.0603s
+
+>>> Processing Frame 18
+  [Phase] Convergence Frame 18
+    [Predict] Ready to Shake: 24360
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  3616 3572 3605 3498
+      Matched and shaked 3D objects: 1199
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  2420 2381 2414 2300
+      Matched and shaked 3D objects: 639
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  1784 1746 1775 1668
+      Matched and shaked 3D objects: 295
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  1490 1458 1483 1375
+      Matched and shaked 3D objects: 72
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  1420 1395 1413 0
+      Matched and shaked 3D objects: 158
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1259 1237 1255 0
+      Matched and shaked 3D objects: 58
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1201 1180 0 1305
+      Matched and shaked 3D objects: 129
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1072 1048 0 1175
+      Matched and shaked 3D objects: 42
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1030 0 1193 1132
+      Matched and shaked 3D objects: 120
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  911 0 1072 1009
+      Matched and shaked 3D objects: 40
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 1001 1031 969
+      Matched and shaked 3D objects: 111
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 887 918 857
+      Matched and shaked 3D objects: 51
+    [IPR] Found 2914 objects.
+    [Stats] Short Active: 2200 (LinkOk: 2015, Promoted: 596, New: 870, Died: 212)
+    [Stats] Long Active:  24701 (PredOk: 24360, ShakeOk: 24355, LF_Fail: 76)
+    Frame Time: 8.2236s
+
+>>> Processing Frame 19
+  [Phase] Convergence Frame 19
+    [Predict] Ready to Shake: 24447
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  3584 3570 3603 3499
+      Matched and shaked 3D objects: 1215
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  2364 2358 2397 2289
+      Matched and shaked 3D objects: 618
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  1749 1736 1775 1671
+      Matched and shaked 3D objects: 287
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  1464 1455 1493 1385
+      Matched and shaked 3D objects: 59
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  1409 1399 1440 0
+      Matched and shaked 3D objects: 153
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1255 1243 1282 0
+      Matched and shaked 3D objects: 61
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1194 1180 0 1329
+      Matched and shaked 3D objects: 142
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1052 1032 0 1186
+      Matched and shaked 3D objects: 49
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1003 0 1218 1137
+      Matched and shaked 3D objects: 113
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  886 0 1098 1022
+      Matched and shaked 3D objects: 58
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 979 1040 963
+      Matched and shaked 3D objects: 108
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 871 930 854
+      Matched and shaked 3D objects: 37
+    [IPR] Found 2900 objects.
+    [Stats] Short Active: 2165 (LinkOk: 2011, Promoted: 608, New: 860, Died: 189)
+    [Stats] Long Active:  24773 (PredOk: 24447, ShakeOk: 24441, LF_Fail: 82)
+    Frame Time: 8.8743s
+
+>>> Processing Frame 20
+  [Phase] Convergence Frame 20
+    [Predict] Ready to Shake: 24494
+    [IPR] Running on residual images (IPR)...
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 0
+      found 2D objects:  3526 3493 3545 3526
+      Matched and shaked 3D objects: 1190
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 1
+      found 2D objects:  2332 2308 2360 2336
+      Matched and shaked 3D objects: 606
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 2
+      found 2D objects:  1740 1704 1769 1738
+      Matched and shaked 3D objects: 321
+Strategy Full Cameras: Cams [0, 1, 2, 3] lOOP 3
+      found 2D objects:  1421 1388 1450 1427
+      Matched and shaked 3D objects: 74
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 0
+      found 2D objects:  1352 1317 1377 0
+      Matched and shaked 3D objects: 131
+Strategy Reduced 3 Cams: Cams [0, 1, 2] lOOP 1
+      found 2D objects:  1221 1185 1245 0
+      Matched and shaked 3D objects: 42
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 0
+      found 2D objects:  1180 1144 0 1356
+      Matched and shaked 3D objects: 129
+Strategy Reduced 3 Cams: Cams [0, 1, 3] lOOP 1
+      found 2D objects:  1049 1015 0 1224
+      Matched and shaked 3D objects: 49
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 0
+      found 2D objects:  1000 0 1195 1174
+      Matched and shaked 3D objects: 116
+Strategy Reduced 3 Cams: Cams [0, 2, 3] lOOP 1
+      found 2D objects:  884 0 1078 1055
+      Matched and shaked 3D objects: 47
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 0
+      found 2D objects:  0 966 1028 1008
+      Matched and shaked 3D objects: 111
+Strategy Reduced 3 Cams: Cams [1, 2, 3] lOOP 1
+      found 2D objects:  0 853 915 896
+      Matched and shaked 3D objects: 47
+    [IPR] Found 2863 objects.
+    [Stats] Short Active: 2112 (LinkOk: 1977, Promoted: 610, New: 848, Died: 188)
+    [Stats] Long Active:  24833 (PredOk: 24494, ShakeOk: 24489, LF_Fail: 97)
+    Frame Time: 7.8146s
+  [Save] Tracks saved to test/ISO_TR_0.05ppp/results 0.05ppp_STB_P/ConvergeTrack/
+Total processing time: 149.61s

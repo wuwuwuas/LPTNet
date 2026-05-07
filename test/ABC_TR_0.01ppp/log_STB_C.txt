@@ -1,0 +1,1276 @@
+Estimating OTF...
+Camera 0 (a,b,c,alpha) = 169.56,1.44,1.44,0.00
+
+Camera 1 (a,b,c,alpha) = 168.94,1.44,1.44,0.00
+
+Camera 2 (a,b,c,alpha) = 167.71,1.44,1.43,0.00
+
+Camera 3 (a,b,c,alpha) = 168.68,1.44,1.44,0.00
+
+**************
+OpenLPT start!
+**************
+
+Initial phase at frame 0
+START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 7480  7518  7513  7510   (0.12 s)
+		Matched 6322 objects. ( 2D tol: 0.50, t:1.50 s)	After shaking: 6322 objects remain. (5.65 s)
+	LOOP=0: TOTAL OBJECTS = 6322
+		2D detections per active camera: 1462  1477  1463  1447   (0.03 s)
+		Matched 1134 objects. ( 2D tol: 0.75, t:0.22 s)	After shaking: 1134 objects remain. (1.92 s)
+	LOOP=1: TOTAL OBJECTS = 7456
+		2D detections per active camera: 421  415  406  408   (0.04 s)
+		Matched 317 objects. ( 2D tol: 1.12, t:0.07 s)	After shaking: 317 objects remain. (0.83 s)
+	LOOP=2: TOTAL OBJECTS = 7773
+		2D detections per active camera: 97  114  107  107   (0.03 s)
+		Matched 48 objects. ( 2D tol: 1.69, t:0.02 s)	After shaking: 48 objects remain. (0.49 s)
+	LOOP=3: TOTAL OBJECTS = 7821
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 58  50  66   (0.06 s)
+		Matched 8 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 8 objects remain. (0.48 s)
+	LOOP=0: TOTAL OBJECTS = 7829
+		2D detections per active camera: 42  58  50   (0.04 s)
+		Matched 1 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 1 objects remain. (0.50 s)
+	LOOP=1: TOTAL OBJECTS = 7830
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 41  49  60   (0.03 s)
+		Matched 4 objects. ( 2D tol: 0.50, t:0.00 s)	After shaking: 4 objects remain. (0.53 s)
+	LOOP=0: TOTAL OBJECTS = 7834
+		2D detections per active camera: 37  56  45   (0.03 s)
+		Matched 1 objects. ( 2D tol: 0.75, t:0.00 s)	After shaking: 1 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 7835
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 36  57  55   (0.03 s)
+		Matched 10 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 10 objects remain. (0.50 s)
+	LOOP=0: TOTAL OBJECTS = 7845
+		2D detections per active camera: 26  47  45   (0.05 s)
+		Matched 1 objects. ( 2D tol: 0.75, t:0.00 s)	After shaking: 1 objects remain. (0.49 s)
+	LOOP=1: TOTAL OBJECTS = 7846
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 44  44  46   (0.04 s)
+		Matched 11 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 11 objects remain. (0.55 s)
+	LOOP=0: TOTAL OBJECTS = 7857
+		2D detections per active camera: 33  33  35   (0.03 s)
+		Matched 1 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 1 objects remain. (0.48 s)
+	LOOP=1: TOTAL OBJECTS = 7858
+IPR FINISH! FOUND 7858 OBJECTS.
+Total time for frame 0: 15.55
+
+Initial phase at frame 1
+START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 7591  7542  7611  7567   (0.12 s)
+		Matched 6414 objects. ( 2D tol: 0.50, t:1.68 s)	After shaking: 6414 objects remain. (7.41 s)
+	LOOP=0: TOTAL OBJECTS = 6414
+		2D detections per active camera: 1431  1434  1451  1424   (0.11 s)
+		Matched 1112 objects. ( 2D tol: 0.75, t:0.30 s)	After shaking: 1112 objects remain. (2.00 s)
+	LOOP=1: TOTAL OBJECTS = 7526
+		2D detections per active camera: 414  415  416  407   (0.03 s)
+		Matched 329 objects. ( 2D tol: 1.12, t:0.06 s)	After shaking: 329 objects remain. (1.03 s)
+	LOOP=2: TOTAL OBJECTS = 7855
+		2D detections per active camera: 95  86  93  93   (0.02 s)
+		Matched 42 objects. ( 2D tol: 1.69, t:0.02 s)	After shaking: 42 objects remain. (0.56 s)
+	LOOP=3: TOTAL OBJECTS = 7897
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 53  51  45   (0.04 s)
+		Matched 5 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 5 objects remain. (0.54 s)
+	LOOP=0: TOTAL OBJECTS = 7902
+		2D detections per active camera: 48  40  46   (0.04 s)
+		Matched 0 objects. ( 2D tol: 0.75, t:0.00 s)
+	LOOP=1: TOTAL OBJECTS = 7902
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 48  40  51   (0.04 s)
+		Matched 5 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 5 objects remain. (0.49 s)
+	LOOP=0: TOTAL OBJECTS = 7907
+		2D detections per active camera: 43  46  35   (0.04 s)
+		Matched 1 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 1 objects remain. (0.51 s)
+	LOOP=1: TOTAL OBJECTS = 7908
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 42  46  45   (0.03 s)
+		Matched 7 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 7 objects remain. (0.49 s)
+	LOOP=0: TOTAL OBJECTS = 7915
+		2D detections per active camera: 35  38  39   (0.04 s)
+		Matched 3 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 3 objects remain. (0.52 s)
+	LOOP=1: TOTAL OBJECTS = 7918
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 36  33  35   (0.08 s)
+		Matched 4 objects. ( 2D tol: 0.50, t:0.00 s)	After shaking: 4 objects remain. (0.47 s)
+	LOOP=0: TOTAL OBJECTS = 7922
+		2D detections per active camera: 29  32  31   (0.05 s)
+		Matched 0 objects. ( 2D tol: 0.75, t:0.00 s)
+	LOOP=1: TOTAL OBJECTS = 7922
+IPR FINISH! FOUND 7922 OBJECTS.
+Total time for frame 1: 17.11
+
+Initial phase at frame 2
+START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 7551  7570  7577  7529   (0.16 s)
+		Matched 6332 objects. ( 2D tol: 0.50, t:1.46 s)	After shaking: 6332 objects remain. (6.37 s)
+	LOOP=0: TOTAL OBJECTS = 6332
+		2D detections per active camera: 1499  1493  1485  1510   (0.03 s)
+		Matched 1130 objects. ( 2D tol: 0.75, t:0.25 s)	After shaking: 1130 objects remain. (1.90 s)
+	LOOP=1: TOTAL OBJECTS = 7462
+		2D detections per active camera: 471  459  457  454   (0.05 s)
+		Matched 350 objects. ( 2D tol: 1.12, t:0.08 s)	After shaking: 350 objects remain. (1.03 s)
+	LOOP=2: TOTAL OBJECTS = 7812
+		2D detections per active camera: 135  124  121  131   (0.05 s)
+		Matched 71 objects. ( 2D tol: 1.69, t:0.04 s)	After shaking: 71 objects remain. (0.55 s)
+	LOOP=3: TOTAL OBJECTS = 7883
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 64  56  64   (0.04 s)
+		Matched 13 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 13 objects remain. (0.45 s)
+	LOOP=0: TOTAL OBJECTS = 7896
+		2D detections per active camera: 43  51  51   (0.04 s)
+		Matched 0 objects. ( 2D tol: 0.75, t:0.01 s)
+	LOOP=1: TOTAL OBJECTS = 7896
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 51  43  47   (0.06 s)
+		Matched 7 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 7 objects remain. (0.48 s)
+	LOOP=0: TOTAL OBJECTS = 7903
+		2D detections per active camera: 44  40  36   (0.04 s)
+		Matched 0 objects. ( 2D tol: 0.75, t:0.01 s)
+	LOOP=1: TOTAL OBJECTS = 7903
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 40  44  51   (0.05 s)
+		Matched 9 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 9 objects remain. (0.48 s)
+	LOOP=0: TOTAL OBJECTS = 7912
+		2D detections per active camera: 35  31  42   (0.04 s)
+		Matched 0 objects. ( 2D tol: 0.75, t:0.01 s)
+	LOOP=1: TOTAL OBJECTS = 7912
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 31  42  36   (0.06 s)
+		Matched 8 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 8 objects remain. (0.47 s)
+	LOOP=0: TOTAL OBJECTS = 7920
+		2D detections per active camera: 23  28  34   (0.05 s)
+		Matched 1 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 1 objects remain. (0.48 s)
+	LOOP=1: TOTAL OBJECTS = 7921
+IPR FINISH! FOUND 7921 OBJECTS.
+Total time for frame 2: 15.09
+
+Initial phase at frame 3
+START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 7529  7543  7535  7528   (0.12 s)
+		Matched 6385 objects. ( 2D tol: 0.50, t:1.47 s)	After shaking: 6385 objects remain. (6.49 s)
+	LOOP=0: TOTAL OBJECTS = 6385
+		2D detections per active camera: 1398  1402  1421  1414   (0.04 s)
+		Matched 1107 objects. ( 2D tol: 0.75, t:0.19 s)	After shaking: 1107 objects remain. (1.99 s)
+	LOOP=1: TOTAL OBJECTS = 7492
+		2D detections per active camera: 391  388  386  387   (0.06 s)
+		Matched 304 objects. ( 2D tol: 1.12, t:0.07 s)	After shaking: 304 objects remain. (0.86 s)
+	LOOP=2: TOTAL OBJECTS = 7796
+		2D detections per active camera: 91  97  94  100   (0.02 s)
+		Matched 43 objects. ( 2D tol: 1.69, t:0.04 s)	After shaking: 43 objects remain. (0.57 s)
+	LOOP=3: TOTAL OBJECTS = 7839
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 47  53  51   (0.03 s)
+		Matched 9 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 9 objects remain. (0.47 s)
+	LOOP=0: TOTAL OBJECTS = 7848
+		2D detections per active camera: 38  42  44   (0.04 s)
+		Matched 1 objects. ( 2D tol: 0.75, t:0.00 s)	After shaking: 1 objects remain. (0.51 s)
+	LOOP=1: TOTAL OBJECTS = 7849
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 37  57  41   (0.06 s)
+		Matched 4 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 4 objects remain. (0.53 s)
+	LOOP=0: TOTAL OBJECTS = 7853
+		2D detections per active camera: 33  37  53   (0.09 s)
+		Matched 1 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 1 objects remain. (0.85 s)
+	LOOP=1: TOTAL OBJECTS = 7854
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 43  52  32   (0.04 s)
+		Matched 8 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 8 objects remain. (0.50 s)
+	LOOP=0: TOTAL OBJECTS = 7862
+		2D detections per active camera: 24  35  44   (0.05 s)
+		Matched 1 objects. ( 2D tol: 0.75, t:0.00 s)	After shaking: 1 objects remain. (0.63 s)
+	LOOP=1: TOTAL OBJECTS = 7863
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 35  34  43   (0.02 s)
+		Matched 6 objects. ( 2D tol: 0.50, t:0.00 s)	After shaking: 6 objects remain. (0.44 s)
+	LOOP=0: TOTAL OBJECTS = 7869
+		2D detections per active camera: 29  37  28   (0.02 s)
+		Matched 2 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 2 objects remain. (0.43 s)
+	LOOP=1: TOTAL OBJECTS = 7871
+IPR FINISH! FOUND 7871 OBJECTS.
+
+STB initial phase tracking b/w frames: 0 & 1; 
+Linked tracks (0.01 s)
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/InitialTrack/
+STB initial phase tracking b/w frames: 1 & 2; 
+	Calculated predictive field (47.15 s), Linked tracks (0.21 s)
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/InitialTrack/
+STB initial phase tracking b/w frames: 2 & 3; 
+	Calculated predictive field (46.89 s), Linked tracks (0.22 s)
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/InitialTrack/
+STB initial phase tracking b/w frames: 3 & 4; 
+	Calculated predictive field (45.46 s), Linked tracks (0.20 s)
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/InitialTrack/
+Done with initial phase!
+ACTIVE SHORT TRACKS: 873; ACTIVE LONG TRACKS: 7234; EXIT TRACKS: 0
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/InitialTrack/
+Total time for frame 3: 158.99
+
+Convergence phase at frame 4
+ Prediction: 0.04 s. Done!
+ Shake prediction: 6.42 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1178  1177  1166  1169   (0.08 s)
+		Matched 942 objects. ( 2D tol: 0.50, t:0.22 s)	After shaking: 942 objects remain. (1.36 s)
+	LOOP=0: TOTAL OBJECTS = 942
+		2D detections per active camera: 250  241  242  249   (0.02 s)
+		Matched 92 objects. ( 2D tol: 0.75, t:0.04 s)	After shaking: 92 objects remain. (0.57 s)
+	LOOP=1: TOTAL OBJECTS = 1034
+		2D detections per active camera: 163  159  149  153   (0.02 s)
+		Matched 15 objects. ( 2D tol: 1.12, t:0.01 s)	After shaking: 15 objects remain. (0.48 s)
+	LOOP=2: TOTAL OBJECTS = 1049
+		2D detections per active camera: 147  135  144  138   (0.03 s)
+		Matched 1 objects. ( 2D tol: 1.69, t:0.02 s)	After shaking: 1 objects remain. (0.46 s)
+	LOOP=3: TOTAL OBJECTS = 1050
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 146  134  137   (0.04 s)
+		Matched 11 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 11 objects remain. (0.49 s)
+	LOOP=0: TOTAL OBJECTS = 1061
+		2D detections per active camera: 135  123  126   (0.04 s)
+		Matched 2 objects. ( 2D tol: 0.75, t:0.05 s)	After shaking: 2 objects remain. (0.43 s)
+	LOOP=1: TOTAL OBJECTS = 1063
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 133  124  143   (0.02 s)
+		Matched 7 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 7 objects remain. (0.46 s)
+	LOOP=0: TOTAL OBJECTS = 1070
+		2D detections per active camera: 126  117  136   (0.04 s)
+		Matched 1 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 1 objects remain. (0.48 s)
+	LOOP=1: TOTAL OBJECTS = 1071
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 125  135  121   (0.04 s)
+		Matched 3 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 3 objects remain. (0.54 s)
+	LOOP=0: TOTAL OBJECTS = 1074
+		2D detections per active camera: 122  132  118   (0.03 s)
+		Matched 0 objects. ( 2D tol: 0.75, t:0.01 s)
+	LOOP=1: TOTAL OBJECTS = 1074
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 132  116  118   (0.05 s)
+		Matched 4 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 4 objects remain. (0.48 s)
+	LOOP=0: TOTAL OBJECTS = 1078
+		2D detections per active camera: 114  128  112   (0.05 s)
+		Matched 2 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 2 objects remain. (0.48 s)
+	LOOP=1: TOTAL OBJECTS = 1080
+IPR FINISH! FOUND 1080 OBJECTS.
+ Remove overlap: 0.55 s.
+ Linking: 0.11 s. Done!
+ Pruning time: 0.01 s
+	No. of active short tracks: 873 + 281 - 387 = 767
+	No. of active long tracks: 7234 + 312 - 289 = 7257
+	No. of exited long tracks: 0 + 0 = 0
+	No. of exited short tracks(deleted): 270
+	No. of inactive Long tracks: 0 + 0 = 0
+	No. of fail shaking intensity/repeated: 12
+	No. of fail linear fit: 7
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 4: 15.12
+
+Convergence phase at frame 5
+ Prediction: 0.07 s. Done!
+ Shake prediction: 7.06 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1255  1262  1236  1235   (0.09 s)
+		Matched 945 objects. ( 2D tol: 0.50, t:0.25 s)	After shaking: 945 objects remain. (1.34 s)
+	LOOP=0: TOTAL OBJECTS = 945
+		2D detections per active camera: 322  302  304  326   (0.02 s)
+		Matched 85 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 85 objects remain. (0.63 s)
+	LOOP=1: TOTAL OBJECTS = 1030
+		2D detections per active camera: 240  219  216  245   (0.03 s)
+		Matched 22 objects. ( 2D tol: 1.12, t:0.02 s)	After shaking: 22 objects remain. (0.47 s)
+	LOOP=2: TOTAL OBJECTS = 1052
+		2D detections per active camera: 219  194  223  198   (0.08 s)
+		Matched 2 objects. ( 2D tol: 1.69, t:0.05 s)	After shaking: 2 objects remain. (0.48 s)
+	LOOP=3: TOTAL OBJECTS = 1054
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 217  192  221   (0.03 s)
+		Matched 30 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 30 objects remain. (0.54 s)
+	LOOP=0: TOTAL OBJECTS = 1084
+		2D detections per active camera: 188  190  162   (0.06 s)
+		Matched 4 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 4 objects remain. (0.49 s)
+	LOOP=1: TOTAL OBJECTS = 1088
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 184  158  196   (0.05 s)
+		Matched 13 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 13 objects remain. (0.49 s)
+	LOOP=0: TOTAL OBJECTS = 1101
+		2D detections per active camera: 170  183  145   (0.06 s)
+		Matched 4 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 4 objects remain. (0.50 s)
+	LOOP=1: TOTAL OBJECTS = 1105
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 166  185  179   (0.05 s)
+		Matched 33 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 33 objects remain. (0.50 s)
+	LOOP=0: TOTAL OBJECTS = 1138
+		2D detections per active camera: 132  145  152   (0.07 s)
+		Matched 1 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 1 objects remain. (0.49 s)
+	LOOP=1: TOTAL OBJECTS = 1139
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 144  151  141   (0.06 s)
+		Matched 15 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 15 objects remain. (0.50 s)
+	LOOP=0: TOTAL OBJECTS = 1154
+		2D detections per active camera: 129  136  126   (0.05 s)
+		Matched 1 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 1 objects remain. (0.52 s)
+	LOOP=1: TOTAL OBJECTS = 1155
+IPR FINISH! FOUND 1155 OBJECTS.
+ Remove overlap: 0.73 s.
+ Linking: 0.09 s. Done!
+ Pruning time: 0.01 s
+	No. of active short tracks: 767 + 405 - 256 = 916
+	No. of active long tracks: 7257 + 239 - 237 = 7259
+	No. of exited long tracks: 0 + 0 = 0
+	No. of exited short tracks(deleted): 230
+	No. of inactive Long tracks: 0 + 0 = 0
+	No. of fail shaking intensity/repeated: 4
+	No. of fail linear fit: 3
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 5: 16.91
+
+Convergence phase at frame 6
+ Prediction: 0.04 s. Done!
+ Shake prediction: 8.14 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1479  1514  1556  1487   (0.14 s)
+		Matched 1082 objects. ( 2D tol: 0.50, t:0.26 s)	After shaking: 1082 objects remain. (2.00 s)
+	LOOP=0: TOTAL OBJECTS = 1082
+		2D detections per active camera: 440  410  424  485   (0.02 s)
+		Matched 104 objects. ( 2D tol: 0.75, t:0.04 s)	After shaking: 104 objects remain. (0.63 s)
+	LOOP=1: TOTAL OBJECTS = 1186
+		2D detections per active camera: 312  327  338  386   (0.03 s)
+		Matched 49 objects. ( 2D tol: 1.12, t:0.04 s)	After shaking: 49 objects remain. (0.57 s)
+	LOOP=2: TOTAL OBJECTS = 1235
+		2D detections per active camera: 289  280  262  340   (0.03 s)
+		Matched 5 objects. ( 2D tol: 1.69, t:0.04 s)	After shaking: 5 objects remain. (0.48 s)
+	LOOP=3: TOTAL OBJECTS = 1240
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 286  336  259   (0.05 s)
+		Matched 55 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 55 objects remain. (0.53 s)
+	LOOP=0: TOTAL OBJECTS = 1295
+		2D detections per active camera: 204  231  283   (0.04 s)
+		Matched 5 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 5 objects remain. (0.48 s)
+	LOOP=1: TOTAL OBJECTS = 1300
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 226  199  276   (0.04 s)
+		Matched 25 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 25 objects remain. (0.53 s)
+	LOOP=0: TOTAL OBJECTS = 1325
+		2D detections per active camera: 202  251  174   (0.05 s)
+		Matched 7 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 7 objects remain. (0.49 s)
+	LOOP=1: TOTAL OBJECTS = 1332
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 195  278  244   (0.06 s)
+		Matched 69 objects. ( 2D tol: 0.50, t:0.05 s)	After shaking: 69 objects remain. (0.67 s)
+	LOOP=0: TOTAL OBJECTS = 1401
+		2D detections per active camera: 128  175  209   (0.06 s)
+		Matched 10 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 10 objects remain. (0.50 s)
+	LOOP=1: TOTAL OBJECTS = 1411
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 167  164  199   (0.05 s)
+		Matched 43 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 43 objects remain. (0.50 s)
+	LOOP=0: TOTAL OBJECTS = 1454
+		2D detections per active camera: 124  121  155   (0.04 s)
+		Matched 4 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 4 objects remain. (0.51 s)
+	LOOP=1: TOTAL OBJECTS = 1458
+IPR FINISH! FOUND 1458 OBJECTS.
+ Remove overlap: 0.67 s.
+ Linking: 0.12 s. Done!
+ Pruning time: 0.01 s
+	No. of active short tracks: 916 + 566 - 264 = 1218
+	No. of active long tracks: 7259 + 239 - 226 = 7272
+	No. of exited long tracks: 0 + 0 = 0
+	No. of exited short tracks(deleted): 224
+	No. of inactive Long tracks: 0 + 0 = 0
+	No. of fail shaking intensity/repeated: 0
+	No. of fail linear fit: 2
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 6: 19.18
+
+Convergence phase at frame 7
+ Prediction: 0.04 s. Done!
+ Shake prediction: 7.35 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1685  1717  1655  1661   (0.07 s)
+		Matched 1168 objects. ( 2D tol: 0.50, t:0.35 s)	After shaking: 1168 objects remain. (1.97 s)
+	LOOP=0: TOTAL OBJECTS = 1168
+		2D detections per active camera: 535  564  507  515   (0.03 s)
+		Matched 132 objects. ( 2D tol: 0.75, t:0.05 s)	After shaking: 132 objects remain. (0.63 s)
+	LOOP=1: TOTAL OBJECTS = 1300
+		2D detections per active camera: 406  380  433  390   (0.03 s)
+		Matched 56 objects. ( 2D tol: 1.12, t:0.04 s)	After shaking: 56 objects remain. (0.53 s)
+	LOOP=2: TOTAL OBJECTS = 1356
+		2D detections per active camera: 351  323  380  335   (0.03 s)
+		Matched 10 objects. ( 2D tol: 1.69, t:0.05 s)	After shaking: 10 objects remain. (0.45 s)
+	LOOP=3: TOTAL OBJECTS = 1366
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 342  372  313   (0.04 s)
+		Matched 76 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 76 objects remain. (0.57 s)
+	LOOP=0: TOTAL OBJECTS = 1442
+		2D detections per active camera: 266  295  237   (0.04 s)
+		Matched 11 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 11 objects remain. (0.46 s)
+	LOOP=1: TOTAL OBJECTS = 1453
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 226  255  326   (0.04 s)
+		Matched 37 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 37 objects remain. (0.51 s)
+	LOOP=0: TOTAL OBJECTS = 1490
+		2D detections per active camera: 289  218  188   (0.03 s)
+		Matched 2 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 2 objects remain. (0.60 s)
+	LOOP=1: TOTAL OBJECTS = 1492
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 216  284  287   (0.05 s)
+		Matched 88 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 88 objects remain. (0.60 s)
+	LOOP=0: TOTAL OBJECTS = 1580
+		2D detections per active camera: 128  197  199   (0.03 s)
+		Matched 12 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 12 objects remain. (0.51 s)
+	LOOP=1: TOTAL OBJECTS = 1592
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 186  185  187   (0.04 s)
+		Matched 49 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 49 objects remain. (0.53 s)
+	LOOP=0: TOTAL OBJECTS = 1641
+		2D detections per active camera: 136  136  138   (0.03 s)
+		Matched 9 objects. ( 2D tol: 0.75, t:0.00 s)	After shaking: 9 objects remain. (0.51 s)
+	LOOP=1: TOTAL OBJECTS = 1650
+IPR FINISH! FOUND 1650 OBJECTS.
+ Remove overlap: 0.60 s.
+ Linking: 0.11 s. Done!
+ Pruning time: 0.01 s
+	No. of active short tracks: 1218 + 485 - 314 = 1389
+	No. of active long tracks: 7272 + 261 - 211 = 7322
+	No. of exited long tracks: 0 + 193 = 193
+	No. of exited short tracks(deleted): 13
+	No. of inactive Long tracks: 0 + 3 = 3
+	No. of fail shaking intensity/repeated: 3
+	No. of fail linear fit: 2
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 7: 18.13
+
+Convergence phase at frame 8
+ Prediction: 0.06 s. Done!
+ Shake prediction: 7.67 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1796  1763  1857  1815   (0.09 s)
+		Matched 1247 objects. ( 2D tol: 0.50, t:0.30 s)	After shaking: 1247 objects remain. (1.77 s)
+	LOOP=0: TOTAL OBJECTS = 1247
+		2D detections per active camera: 565  526  622  584   (0.03 s)
+		Matched 141 objects. ( 2D tol: 0.75, t:0.05 s)	After shaking: 141 objects remain. (0.61 s)
+	LOOP=1: TOTAL OBJECTS = 1388
+		2D detections per active camera: 427  390  448  490   (0.03 s)
+		Matched 55 objects. ( 2D tol: 1.12, t:0.04 s)	After shaking: 55 objects remain. (0.52 s)
+	LOOP=2: TOTAL OBJECTS = 1443
+		2D detections per active camera: 375  335  437  392   (0.03 s)
+		Matched 6 objects. ( 2D tol: 1.69, t:0.05 s)	After shaking: 6 objects remain. (0.54 s)
+	LOOP=3: TOTAL OBJECTS = 1449
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 370  431  329   (0.03 s)
+		Matched 76 objects. ( 2D tol: 0.50, t:0.01 s)	After shaking: 76 objects remain. (0.53 s)
+	LOOP=0: TOTAL OBJECTS = 1525
+		2D detections per active camera: 293  355  254   (0.04 s)
+		Matched 3 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 3 objects remain. (0.49 s)
+	LOOP=1: TOTAL OBJECTS = 1528
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 290  251  387   (0.03 s)
+		Matched 54 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 54 objects remain. (0.55 s)
+	LOOP=0: TOTAL OBJECTS = 1582
+		2D detections per active camera: 236  333  197   (0.05 s)
+		Matched 1 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 1 objects remain. (0.50 s)
+	LOOP=1: TOTAL OBJECTS = 1583
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 235  333  352   (0.09 s)
+		Matched 118 objects. ( 2D tol: 0.50, t:0.05 s)	After shaking: 118 objects remain. (0.61 s)
+	LOOP=0: TOTAL OBJECTS = 1701
+		2D detections per active camera: 118  217  236   (0.02 s)
+		Matched 8 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 8 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1709
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 228  209  196   (0.07 s)
+		Matched 63 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 63 objects remain. (0.52 s)
+	LOOP=0: TOTAL OBJECTS = 1772
+		2D detections per active camera: 145  133  165   (0.03 s)
+		Matched 7 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 7 objects remain. (0.46 s)
+	LOOP=1: TOTAL OBJECTS = 1779
+IPR FINISH! FOUND 1779 OBJECTS.
+ Remove overlap: 0.87 s.
+ Linking: 0.23 s. Done!
+ Pruning time: 0.01 s
+	No. of active short tracks: 1389 + 457 - 436 = 1410
+	No. of active long tracks: 7322 + 369 - 215 = 7476
+	No. of exited long tracks: 193 + 193 = 386
+	No. of exited short tracks(deleted): 12
+	No. of inactive Long tracks: 3 + 3 = 6
+	No. of fail shaking intensity/repeated: 3
+	No. of fail linear fit: 7
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 8: 18.88
+
+Convergence phase at frame 9
+ Prediction: 0.04 s. Done!
+ Shake prediction: 7.59 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1819  1759  1871  1771   (0.10 s)
+		Matched 1228 objects. ( 2D tol: 0.50, t:0.29 s)	After shaking: 1228 objects remain. (1.71 s)
+	LOOP=0: TOTAL OBJECTS = 1228
+		2D detections per active camera: 543  653  609  558   (0.03 s)
+		Matched 146 objects. ( 2D tol: 0.75, t:0.05 s)	After shaking: 146 objects remain. (0.63 s)
+	LOOP=1: TOTAL OBJECTS = 1374
+		2D detections per active camera: 467  402  509  424   (0.03 s)
+		Matched 60 objects. ( 2D tol: 1.12, t:0.04 s)	After shaking: 60 objects remain. (0.51 s)
+	LOOP=2: TOTAL OBJECTS = 1434
+		2D detections per active camera: 411  453  343  367   (0.09 s)
+		Matched 11 objects. ( 2D tol: 1.69, t:0.06 s)	After shaking: 11 objects remain. (0.50 s)
+	LOOP=3: TOTAL OBJECTS = 1445
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 400  335  444   (0.07 s)
+		Matched 96 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 96 objects remain. (0.65 s)
+	LOOP=0: TOTAL OBJECTS = 1541
+		2D detections per active camera: 304  352  239   (0.04 s)
+		Matched 7 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 7 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1548
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 297  232  357   (0.04 s)
+		Matched 39 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 39 objects remain. (0.56 s)
+	LOOP=0: TOTAL OBJECTS = 1587
+		2D detections per active camera: 258  318  193   (0.03 s)
+		Matched 4 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 4 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1591
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 254  344  315   (0.05 s)
+		Matched 107 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 107 objects remain. (0.60 s)
+	LOOP=0: TOTAL OBJECTS = 1698
+		2D detections per active camera: 147  238  210   (0.06 s)
+		Matched 10 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 10 objects remain. (0.49 s)
+	LOOP=1: TOTAL OBJECTS = 1708
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 228  189  201   (0.04 s)
+		Matched 60 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 60 objects remain. (0.57 s)
+	LOOP=0: TOTAL OBJECTS = 1768
+		2D detections per active camera: 129  168  142   (0.05 s)
+		Matched 8 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 8 objects remain. (0.56 s)
+	LOOP=1: TOTAL OBJECTS = 1776
+IPR FINISH! FOUND 1776 OBJECTS.
+ Remove overlap: 0.81 s.
+ Linking: 0.23 s. Done!
+ Pruning time: 0.01 s
+	No. of active short tracks: 1410 + 434 - 562 = 1282
+	No. of active long tracks: 7476 + 494 - 243 = 7727
+	No. of exited long tracks: 386 + 215 = 601
+	No. of exited short tracks(deleted): 15
+	No. of inactive Long tracks: 6 + 1 = 7
+	No. of fail shaking intensity/repeated: 2
+	No. of fail linear fit: 11
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 9: 18.88
+
+Convergence phase at frame 10
+ Prediction: 0.08 s. Done!
+ Shake prediction: 8.70 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1704  1729  1768  1657   (0.07 s)
+		Matched 1161 objects. ( 2D tol: 0.50, t:0.25 s)	After shaking: 1161 objects remain. (1.74 s)
+	LOOP=0: TOTAL OBJECTS = 1161
+		2D detections per active camera: 555  586  615  515   (0.03 s)
+		Matched 136 objects. ( 2D tol: 0.75, t:0.05 s)	After shaking: 136 objects remain. (0.60 s)
+	LOOP=1: TOTAL OBJECTS = 1297
+		2D detections per active camera: 423  384  454  485   (0.02 s)
+		Matched 66 objects. ( 2D tol: 1.12, t:0.02 s)	After shaking: 66 objects remain. (0.54 s)
+	LOOP=2: TOTAL OBJECTS = 1363
+		2D detections per active camera: 357  426  320  387   (0.03 s)
+		Matched 10 objects. ( 2D tol: 1.69, t:0.04 s)	After shaking: 10 objects remain. (0.48 s)
+	LOOP=3: TOTAL OBJECTS = 1373
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 348  416  312   (0.04 s)
+		Matched 70 objects. ( 2D tol: 0.50, t:0.05 s)	After shaking: 70 objects remain. (0.57 s)
+	LOOP=0: TOTAL OBJECTS = 1443
+		2D detections per active camera: 280  243  345   (0.03 s)
+		Matched 4 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 4 objects remain. (0.42 s)
+	LOOP=1: TOTAL OBJECTS = 1447
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 276  376  239   (0.03 s)
+		Matched 40 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 40 objects remain. (0.52 s)
+	LOOP=0: TOTAL OBJECTS = 1487
+		2D detections per active camera: 236  199  336   (0.04 s)
+		Matched 7 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 7 objects remain. (0.46 s)
+	LOOP=1: TOTAL OBJECTS = 1494
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 229  329  339   (0.02 s)
+		Matched 91 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 91 objects remain. (0.59 s)
+	LOOP=0: TOTAL OBJECTS = 1585
+		2D detections per active camera: 138  237  247   (0.02 s)
+		Matched 13 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 13 objects remain. (0.45 s)
+	LOOP=1: TOTAL OBJECTS = 1598
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 193  237  223   (0.05 s)
+		Matched 76 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 76 objects remain. (0.56 s)
+	LOOP=0: TOTAL OBJECTS = 1674
+		2D detections per active camera: 147  161  116   (0.03 s)
+		Matched 6 objects. ( 2D tol: 0.75, t:0.00 s)	After shaking: 6 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1680
+IPR FINISH! FOUND 1680 OBJECTS.
+ Remove overlap: 0.68 s.
+ Linking: 0.15 s. Done!
+ Pruning time: 0.01 s
+ VSC Accumulate: 0 points (0.77 s)
+	No. of active short tracks: 1282 + 458 - 481 = 1259
+	No. of active long tracks: 7727 + 420 - 249 = 7898
+	No. of exited long tracks: 601 + 219 = 820
+	No. of exited short tracks(deleted): 19
+	No. of inactive Long tracks: 7 + 0 = 7
+	No. of fail shaking intensity/repeated: 0
+	No. of fail linear fit: 11
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 10: 19.95
+
+Convergence phase at frame 11
+ Prediction: 0.04 s. Done!
+ Shake prediction: 7.57 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1713  1701  1775  1699   (0.06 s)
+		Matched 1148 objects. ( 2D tol: 0.50, t:0.26 s)	After shaking: 1148 objects remain. (1.62 s)
+	LOOP=0: TOTAL OBJECTS = 1148
+		2D detections per active camera: 575  642  568  574   (0.03 s)
+		Matched 141 objects. ( 2D tol: 0.75, t:0.05 s)	After shaking: 141 objects remain. (0.62 s)
+	LOOP=1: TOTAL OBJECTS = 1289
+		2D detections per active camera: 440  501  431  440   (0.03 s)
+		Matched 66 objects. ( 2D tol: 1.12, t:0.04 s)	After shaking: 66 objects remain. (0.54 s)
+	LOOP=2: TOTAL OBJECTS = 1355
+		2D detections per active camera: 377  438  364  374   (0.03 s)
+		Matched 12 objects. ( 2D tol: 1.69, t:0.05 s)	After shaking: 12 objects remain. (0.44 s)
+	LOOP=3: TOTAL OBJECTS = 1367
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 367  351  427   (0.04 s)
+		Matched 79 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 79 objects remain. (0.53 s)
+	LOOP=0: TOTAL OBJECTS = 1446
+		2D detections per active camera: 288  272  347   (0.03 s)
+		Matched 3 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 3 objects remain. (0.58 s)
+	LOOP=1: TOTAL OBJECTS = 1449
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 285  269  366   (0.03 s)
+		Matched 37 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 37 objects remain. (0.47 s)
+	LOOP=0: TOTAL OBJECTS = 1486
+		2D detections per active camera: 246  232  329   (0.05 s)
+		Matched 8 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 8 objects remain. (0.46 s)
+	LOOP=1: TOTAL OBJECTS = 1494
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 238  344  321   (0.05 s)
+		Matched 88 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 88 objects remain. (0.63 s)
+	LOOP=0: TOTAL OBJECTS = 1582
+		2D detections per active camera: 153  258  233   (0.03 s)
+		Matched 14 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 14 objects remain. (0.49 s)
+	LOOP=1: TOTAL OBJECTS = 1596
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 244  219  222   (0.04 s)
+		Matched 77 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 77 objects remain. (0.55 s)
+	LOOP=0: TOTAL OBJECTS = 1673
+		2D detections per active camera: 168  142  146   (0.02 s)
+		Matched 7 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 7 objects remain. (0.50 s)
+	LOOP=1: TOTAL OBJECTS = 1680
+IPR FINISH! FOUND 1680 OBJECTS.
+ Remove overlap: 0.65 s.
+ Linking: 0.13 s. Done!
+ Pruning time: 0.01 s
+	No. of active short tracks: 1259 + 483 - 462 = 1280
+	No. of active long tracks: 7898 + 398 - 264 = 8032
+	No. of exited long tracks: 820 + 227 = 1047
+	No. of exited short tracks(deleted): 24
+	No. of inactive Long tracks: 7 + 2 = 9
+	No. of fail shaking intensity/repeated: 4
+	No. of fail linear fit: 9
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 11: 18.11
+
+Convergence phase at frame 12
+ Prediction: 0.04 s. Done!
+ Shake prediction: 7.72 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1764  1785  1731  1766   (0.06 s)
+		Matched 1193 objects. ( 2D tol: 0.50, t:0.26 s)	After shaking: 1193 objects remain. (1.99 s)
+	LOOP=0: TOTAL OBJECTS = 1193
+		2D detections per active camera: 586  551  605  590   (0.03 s)
+		Matched 145 objects. ( 2D tol: 0.75, t:0.05 s)	After shaking: 145 objects remain. (0.60 s)
+	LOOP=1: TOTAL OBJECTS = 1338
+		2D detections per active camera: 444  410  467  451   (0.04 s)
+		Matched 52 objects. ( 2D tol: 1.12, t:0.05 s)	After shaking: 52 objects remain. (0.52 s)
+	LOOP=2: TOTAL OBJECTS = 1390
+		2D detections per active camera: 393  361  418  407   (0.10 s)
+		Matched 15 objects. ( 2D tol: 1.69, t:0.05 s)	After shaking: 15 objects remain. (0.45 s)
+	LOOP=3: TOTAL OBJECTS = 1405
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 379  347  406   (0.03 s)
+		Matched 70 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 70 objects remain. (0.51 s)
+	LOOP=0: TOTAL OBJECTS = 1475
+		2D detections per active camera: 308  277  335   (0.03 s)
+		Matched 5 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 5 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1480
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 303  272  393   (0.04 s)
+		Matched 49 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 49 objects remain. (0.54 s)
+	LOOP=0: TOTAL OBJECTS = 1529
+		2D detections per active camera: 255  223  344   (0.06 s)
+		Matched 5 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 5 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1534
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 250  339ame   (0.04 s)
+		Matched 89 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 89 objects remain. (0.61 s)
+	LOOP=0: TOTAL OBJECTS = 1623
+		2D detections per active camera: 241  251  160   (0.04 s)
+		Matched 6 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 6 objects remain. (0.67 s)
+	LOOP=1: TOTAL OBJECTS = 1629
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 235  245  218   (0.02 s)
+		Matched 83 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 83 objects remain. (0.55 s)
+	LOOP=0: TOTAL OBJECTS = 1712
+		2D detections per active camera: 162  152  136   (0.06 s)
+		Matched 8 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 8 objects remain. (0.56 s)
+	LOOP=1: TOTAL OBJECTS = 1720
+IPR FINISH! FOUND 1720 OBJECTS.
+ Remove overlap: 0.89 s.
+ Linking: 0.19 s. Done!
+ Pruning time: 0.01 s
+	No. of active short tracks: 1280 + 496 - 430 = 1346
+	No. of active long tracks: 8032 + 371 - 309 = 8094
+	No. of exited long tracks: 1047 + 272 = 1319
+	No. of exited short tracks(deleted): 26
+	No. of inactive Long tracks: 9 + 3 = 12
+	No. of fail shaking intensity/repeated: 3
+	No. of fail linear fit: 8
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 12: 19.37
+
+Convergence phase at frame 13
+ Prediction: 0.07 s. Done!
+ Shake prediction: 7.72 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1821  1813  1761  1803   (0.06 s)
+		Matched 1210 objects. ( 2D tol: 0.50, t:0.24 s)	After shaking: 1210 objects remain. (1.67 s)
+	LOOP=0: TOTAL OBJECTS = 1210
+		2D detections per active camera: 622  567  621  627   (0.03 s)
+		Matched 129 objects. ( 2D tol: 0.75, t:0.06 s)	After shaking: 129 objects remain. (0.63 s)
+	LOOP=1: TOTAL OBJECTS = 1339
+		2D detections per active camera: 496  497  502  444   (0.04 s)
+		Matched 69 objects. ( 2D tol: 1.12, t:0.05 s)	After shaking: 69 objects remain. (0.57 s)
+	LOOP=2: TOTAL OBJECTS = 1408
+		2D detections per active camera: 429  431  434  378   (0.04 s)
+		Matched 15 objects. ( 2D tol: 1.69, t:0.11 s)	After shaking: 15 objects remain. (0.46 s)
+	LOOP=3: TOTAL OBJECTS = 1423
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 415  422  362   (0.04 s)
+		Matched 69 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 69 objects remain. (0.56 s)
+	LOOP=0: TOTAL OBJECTS = 1492
+		2D detections per active camera: 346  353  291   (0.04 s)
+		Matched 8 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 8 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1500
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 338  283  417   (0.04 s)
+		Matched 54 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 54 objects remain. (0.50 s)
+	LOOP=0: TOTAL OBJECTS = 1554
+		2D detections per active camera: 283  363  229   (0.04 s)
+		Matched 7 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 7 objects remain. (0.48 s)
+	LOOP=1: TOTAL OBJECTS = 1561
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 276  344  356   (0.03 s)
+		Matched 103 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 103 objects remain. (0.60 s)
+	LOOP=0: TOTAL OBJECTS = 1664
+		2D detections per active camera: 174  254  241   (0.03 s)
+		Matched 15 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 15 objects remain. (0.46 s)
+	LOOP=1: TOTAL OBJECTS = 1679
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 222  239  226   (0.07 s)
+		Matched 78 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 78 objects remain. (0.68 s)
+	LOOP=0: TOTAL OBJECTS = 1757
+		2D detections per active camera: 161  147  145   (0.05 s)
+		Matched 9 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 9 objects remain. (0.69 s)
+	LOOP=1: TOTAL OBJECTS = 1766
+IPR FINISH! FOUND 1766 OBJECTS.
+ Remove overlap: 0.90 s.
+ Linking: 0.22 s. Done!
+ Pruning time: 0.02 s
+	No. of active short tracks: 1346 + 489 - 465 = 1370
+	No. of active long tracks: 8094 + 395 - 320 = 8169
+	No. of exited long tracks: 1319 + 277 = 1596
+	No. of exited short tracks(deleted): 22
+	No. of inactive Long tracks: 12 + 7 = 19
+	No. of fail shaking intensity/repeated: 7
+	No. of fail linear fit: 14
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 13: 19.33
+
+Convergence phase at frame 14
+ Prediction: 0.05 s. Done!
+ Shake prediction: 8.38 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1785  1788  1822  1847   (0.07 s)
+		Matched 1205 objects. ( 2D tol: 0.50, t:0.27 s)	After shaking: 1205 objects remain. (2.05 s)
+	LOOP=0: TOTAL OBJECTS = 1205
+		2D detections per active camera: 643  665  596  596   (0.04 s)
+		Matched 142 objects. ( 2D tol: 0.75, t:0.06 s)	After shaking: 142 objects remain. (0.68 s)
+	LOOP=1: TOTAL OBJECTS = 1347
+		2D detections per active camera: 507  457  527  458   (0.04 s)
+		Matched 74 objects. ( 2D tol: 1.12, t:0.05 s)	After shaking: 74 objects remain. (0.51 s)
+	LOOP=2: TOTAL OBJECTS = 1421
+		2D detections per active camera: 439  385  386  457   (0.02 s)
+		Matched 8 objects. ( 2D tol: 1.69, t:0.05 s)	After shaking: 8 objects remain. (0.45 s)
+	LOOP=3: TOTAL OBJECTS = 1429
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 432  379  450   (0.03 s)
+		Matched 98 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 98 objects remain. (0.57 s)
+	LOOP=0: TOTAL OBJECTS = 1527
+		2D detections per active camera: 334  280  353   (0.03 s)
+		Matched 9 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 9 objects remain. (0.48 s)
+	LOOP=1: TOTAL OBJECTS = 1536
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 381  271  325   (0.05 s)
+		Matched 68 objects. ( 2D tol: 0.50, t:0.09 s)	After shaking: 68 objects remain. (0.73 s)
+	LOOP=0: TOTAL OBJECTS = 1604
+		2D detections per active camera: 254  313  204   (0.04 s)
+		Matched 4 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 4 objects remain. (0.44 s)
+	LOOP=1: TOTAL OBJECTS = 1608
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 250  345  309   (0.04 s)
+		Matched 104 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 104 objects remain. (0.66 s)
+	LOOP=0: TOTAL OBJECTS = 1712
+		2D detections per active camera: 146  241  206   (0.03 s)
+		Matched 4 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 4 objects remain. (0.54 s)
+	LOOP=1: TOTAL OBJECTS = 1716
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 239  202  200   (0.04 s)
+		Matched 65 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 65 objects remain. (0.61 s)
+	LOOP=0: TOTAL OBJECTS = 1781
+		2D detections per active camera: 173  137  135   (0.06 s)
+		Matched 7 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 7 objects remain. (0.51 s)
+	LOOP=1: TOTAL OBJECTS = 1788
+IPR FINISH! FOUND 1788 OBJECTS.
+ Remove overlap: 1.01 s.
+ Linking: 0.13 s. Done!
+ Pruning time: 0.01 s
+	No. of active short tracks: 1370 + 482 - 488 = 1364
+	No. of active long tracks: 8169 + 423 - 366 = 8226
+	No. of exited long tracks: 1596 + 340 = 1936
+	No. of exited short tracks(deleted): 22
+	No. of inactive Long tracks: 19 + 2 = 21
+	No. of fail shaking intensity/repeated: 3
+	No. of fail linear fit: 1
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 14: 20.56
+
+Convergence phase at frame 15
+ Prediction: 0.08 s. Done!
+ Shake prediction: 8.52 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1801  1763  1821  1763   (0.05 s)
+		Matched 1162 objects. ( 2D tol: 0.50, t:0.26 s)	After shaking: 1162 objects remain. (1.81 s)
+	LOOP=0: TOTAL OBJECTS = 1162
+		2D detections per active camera: 654  611  622  678   (0.03 s)
+		Matched 148 objects. ( 2D tol: 0.75, t:0.06 s)	After shaking: 148 objects remain. (0.67 s)
+	LOOP=1: TOTAL OBJECTS = 1310
+		2D detections per active camera: 510  534  D 472   (0.03 s)
+		Matched 68 objects. ( 2D tol: 1.12, t:0.06 s)	After shaking: 68 objects remain. (0.56 s)
+	LOOP=2: TOTAL OBJECTS = 1378
+		2D detections per active camera: 443  469  417  404   (0.04 s)
+		Matched 13 objects. ( 2D tol: 1.69, t:0.13 s)	After shaking: 13 objects remain. (0.58 s)
+	LOOP=3: TOTAL OBJECTS = 1391
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 459  431  394   (0.06 s)
+		Matched 101 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 101 objects remain. (0.57 s)
+	LOOP=0: TOTAL OBJECTS = 1492
+		2D detections per active camera: 357  329  294   (0.05 s)
+		Matched 9 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 9 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1501
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 405  285  320   (0.06 s)
+		Matched 51 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 51 objects remain. (0.55 s)
+	LOOP=0: TOTAL OBJECTS = 1552
+		2D detections per active camera: 270  354  234   (0.09 s)
+		Matched 2 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 2 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1554
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 268  349  352   (0.06 s)
+		Matched 98 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 98 objects remain. (0.59 s)
+	LOOP=0: TOTAL OBJECTS = 1652
+		2D detections per active camera: 170  254  252   (0.03 s)
+		Matched 11 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 11 objects remain. (0.48 s)
+	LOOP=1: TOTAL OBJECTS = 1663
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 245  240  231   (0.04 s)
+		Matched 83 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 83 objects remain. (0.65 s)
+	LOOP=0: TOTAL OBJECTS = 1746
+		2D detections per active camera: 161  157  147   (0.04 s)
+		Matched 4 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 4 objects remain. (0.50 s)
+	LOOP=1: TOTAL OBJECTS = 1750
+IPR FINISH! FOUND 1750 OBJECTS.
+ Remove overlap: 0.87 s.
+ Linking: 0.14 s. Done!
+ Pruning time: 0.06 s
+	No. of active short tracks: 1364 + 463 - 504 = 1323
+	No. of active long tracks: 8226 + 426 - 376 = 8276
+	No. of exited long tracks: 1936 + 337 = 2273
+	No. of exited short tracks(deleted): 28
+	No. of inactive Long tracks: 21 + 3 = 24
+	No. of fail shaking intensity/repeated: 5
+	No. of fail linear fit: 6
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 15: 20.45
+
+Convergence phase at frame 16
+ Prediction: 0.08 s. Done!
+ Shake prediction: 7.98 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1733  1779  1703  1728   (0.05 s)
+		Matched 1148 objects. ( 2D tol: 0.50, t:0.25 s)	After shaking: 1148 objects remain. (1.68 s)
+	LOOP=0: TOTAL OBJECTS = 1148
+		2D detections per active camera: 592  575  600  638   (0.04 s)
+		Matched 135 objects. ( 2D tol: 0.75, t:0.06 s)	After shaking: 135 objects remain. (0.55 s)
+	LOOP=1: TOTAL OBJECTS = 1283
+		2D detections per active camera: 478  507  445  464   (0.03 s)
+		Matched 73 objects. ( 2D tol: 1.12, t:0.04 s)	After shaking: 73 objects remain. (0.51 s)
+	LOOP=2: TOTAL OBJECTS = 1356
+		2D detections per active camera: 407  375  391  433   (0.03 s)
+		Matched 8 objects. ( 2D tol: 1.69, t:0.06 s)	After shaking: 8 objects remain. (0.45 s)
+	LOOP=3: TOTAL OBJECTS = 1364
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 400  367  425   (0.03 s)
+		Matched 82 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 82 objects remain. (0.61 s)
+	LOOP=0: TOTAL OBJECTS = 1446
+		2D detections per active camera: 318  286  344   (0.03 s)
+		Matched 6 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 6 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1452
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 312  281  383   (0.04 s)
+		Matched 55 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 55 objects remain. (0.58 s)
+	LOOP=0: TOTAL OBJECTS = 1507
+		2D detections per active camera: 258  227  329   (0.04 s)
+		Matched 6 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 6 objects remain. (0.49 s)
+	LOOP=1: TOTAL OBJECTS = 1513
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 252  338  322   (0.05 s)
+		Matched 99 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 99 objects remain. (0.58 s)
+	LOOP=0: TOTAL OBJECTS = 1612
+		2D detections per active camera: 157  223  239   (0.03 s)
+		Matched 5 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 5 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1617
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 218  219  234   (0.04 s)
+		Matched 74 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 74 objects remain. (0.59 s)
+	LOOP=0: TOTAL OBJECTS = 1691
+		2D detections per active camera: 145  161  144   (0.02 s)
+		Matched 7 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 7 objects remain. (0.46 s)
+	LOOP=1: TOTAL OBJECTS = 1698
+IPR FINISH! FOUND 1698 OBJECTS.
+ Remove overlap: 0.68 s.
+ Linking: 0.14 s. Done!
+ Pruning time: 0.01 s
+	No. of active short tracks: 1323 + 443 - 489 = 1277
+	No. of active long tracks: 8276 + 419 - 408 = 8287
+	No. of exited long tracks: 2273 + 367 = 2640
+	No. of exited short tracks(deleted): 23
+	No. of inactive Long tracks: 24 + 3 = 27
+	No. of fail shaking intensity/repeated: 4
+	No. of fail linear fit: 14
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 16: 19.03
+
+Convergence phase at frame 17
+ Prediction: 0.04 s. Done!
+ Shake prediction: 8.44 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1704  1732  1719  1764   (0.07 s)
+		Matched 1129 objects. ( 2D tol: 0.50, t:0.29 s)	After shaking: 1129 objects remain. (1.62 s)
+	LOOP=0: TOTAL OBJECTS = 1129
+		2D detections per active camera: 596  644  618  598   (0.03 s)
+		Matched 154 objects. ( 2D tol: 0.75, t:0.06 s)	After shaking: 154 objects remain. (0.60 s)
+	LOOP=1: TOTAL OBJECTS = 1283
+		2D detections per active camera: 454  451  468  496   (0.02 s)
+		Matched 60 objects. ( 2D tol: 1.12, t:0.04 s)	After shaking: 60 objects remain. (0.53 s)
+	LOOP=2: TOTAL OBJECTS = 1343
+		2D detections per active camera: 397  435  392  411   (0.04 s)
+		Matched 10 objects. ( 2D tol: 1.69, t:0.05 s)	After shaking: 10 objects remain. (0.47 s)
+	LOOP=3: TOTAL OBJECTS = 1353
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 387  425  402   (0.05 s)
+		Matched 90 objects. ( 2D tol: 0.50, t:0.05 s)	After shaking: 90 objects remain. (0.54 s)
+	LOOP=0: TOTAL OBJECTS = 1443
+		2D detections per active camera: 297  335  313   (0.03 s)
+		Matched 10 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 10 objects remain. (0.44 s)
+	LOOP=1: TOTAL OBJECTS = 1453
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 287  305  385   (0.04 s)
+		Matched 66 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 66 objects remain. (0.51 s)
+	LOOP=0: TOTAL OBJECTS = 1519
+		2D detections per active camera: 223  239  319   (0.02 s)
+		Matched 4 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 4 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1523
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 219  326  315   (0.03 s)
+		Matched 88 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 88 objects remain. (0.57 s)
+	LOOP=0: TOTAL OBJECTS = 1611
+		2D detections per active camera: 131  238  228   (0.02 s)
+		Matched 10 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 10 objects remain. (0.46 s)
+	LOOP=1: TOTAL OBJECTS = 1621
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 218  229  235   (0.04 s)
+		Matched 75 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 75 objects remain. (0.62 s)
+	LOOP=0: TOTAL OBJECTS = 1696
+		2D detections per active camera: 144  159  156   (0.02 s)
+		Matched 5 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 5 objects remain. (0.45 s)
+	LOOP=1: TOTAL OBJECTS = 1701
+IPR FINISH! FOUND 1701 OBJECTS.
+ Remove overlap: 0.92 s.
+ Linking: 0.12 s. Done!
+ Pruning time: 0.01 s
+	No. of active short tracks: 1277 + 496 - 481 = 1292
+	No. of active long tracks: 8287 + 409 - 354 = 8342
+	No. of exited long tracks: 2640 + 314 = 2954
+	No. of exited short tracks(deleted): 27
+	No. of inactive Long tracks: 27 + 2 = 29
+	No. of fail shaking intensity/repeated: 3
+	No. of fail linear fit: 10
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 17: 19.53
+
+Convergence phase at frame 18
+ Prediction: 0.07 s. Done!
+ Shake prediction: 7.96 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1757  1702  1734  1765   (0.06 s)
+		Matched 1158 objects. ( 2D tol: 0.50, t:0.29 s)	After shaking: 1158 objects remain. (1.42 s)
+	LOOP=0: TOTAL OBJECTS = 1158
+		2D detections per active camera: 611  587  624  553   (0.03 s)
+		Matched 131 objects. ( 2D tol: 0.75, t:0.05 s)	After shaking: 131 objects remain. (0.61 s)
+	LOOP=1: TOTAL OBJECTS = 1289
+		2D detections per active camera: 485  425  498  461   (0.02 s)
+		Matched 59 objects. ( 2D tol: 1.12, t:0.04 s)	After shaking: 59 objects remain. (0.51 s)
+	LOOP=2: TOTAL OBJECTS = 1348
+		2D detections per active camera: 429  403 s)  	M445   (0.02 s)
+		Matched 6 objects. ( 2D tol: 1.69, t:0.04 s)	After shaking: 6 objects remain. (0.48 s)
+	LOOP=3: TOTAL OBJECTS = 1354
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 423  363  439   (0.03 s)
+		Matched 81 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 81 objects remain. (0.63 s)
+	LOOP=0: TOTAL OBJECTS = 1435
+		2D detections per active camera: 343  357  282   (0.03 s)
+		Matched 13 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 13 objects remain. (0.46 s)
+	LOOP=1: TOTAL OBJECTS = 1448
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 332  269  398   (0.02 s)
+		Matched 55 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 55 objects remain. (0.59 s)
+	LOOP=0: TOTAL OBJECTS = 1503
+		2D detections per active camera: 277  214  343   (0.02 s)
+		Matched 5 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 5 objects remain. (0.53 s)
+	LOOP=1: TOTAL OBJECTS = 1508
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 272  338  343   (0.04 s)
+		Matched 113 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 113 objects remain. (0.68 s)
+	LOOP=0: TOTAL OBJECTS = 1621
+		2D detections per active camera: 157  224  232   (0.03 s)
+		Matched 8 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 8 objects remain. (0.50 s)
+	LOOP=1: TOTAL OBJECTS = 1629
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 224  216  209   (0.05 s)
+		Matched 73 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 73 objects remain. (0.58 s)
+	LOOP=0: TOTAL OBJECTS = 1702
+		2D detections per active camera: 136  143  154   (0.04 s)
+		Matched 5 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 5 objects remain. (0.49 s)
+	LOOP=1: TOTAL OBJECTS = 1707
+IPR FINISH! FOUND 1707 OBJECTS.
+ Remove overlap: 0.80 s.
+ Linking: 0.14 s. Done!
+ Pruning time: 0.01 s
+	No. of active short tracks: 1292 + 485 - 457 = 1320
+	No. of active long tracks: 8342 + 387 - 373 = 8356
+	No. of exited long tracks: 2954 + 327 = 3281
+	No. of exited short tracks(deleted): 25
+	No. of inactive Long tracks: 29 + 6 = 35
+	No. of fail shaking intensity/repeated: 7
+	No. of fail linear fit: 14
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 18: 19.24
+
+Convergence phase at frame 19
+ Prediction: 0.05 s. Done!
+ Shake prediction: 7.93 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1761  1723  1780  1739   (0.06 s)
+		Matched 1144 objects. ( 2D tol: 0.50, t:0.29 s)	After shaking: 1144 objects remain. (1.58 s)
+	LOOP=0: TOTAL OBJECTS = 1144
+		2D detections per active camera: 627  584  610  643   (0.03 s)
+		Matched 137 objects. ( 2D tol: 0.75, t:0.06 s)	After shaking: 137 objects remain. (0.71 s)
+	LOOP=1: TOTAL OBJECTS = 1281
+		2D detections per active camera: 494  451  478  509   (0.07 s)
+		Matched 61 objects. ( 2D tol: 1.12, t:0.06 s)	After shaking: 61 objects remain. (0.51 s)
+	LOOP=2: TOTAL OBJECTS = 1342
+		2D detections per active camera: 436  390  417  448   (0.03 s)
+		Matched 13 objects. ( 2D tol: 1.69, t:0.04 s)	After shaking: 13 objects remain. (0.43 s)
+	LOOP=3: TOTAL OBJECTS = 1355
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 424  378  437   (0.04 s)
+		Matched 92 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 92 objects remain. (0.75 s)
+	LOOP=0: TOTAL OBJECTS = 1447
+		2D detections per active camera: 345  3342862D   (0.06 s)
+		Matched 7 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 7 objects remain. (0.51 s)
+	LOOP=1: TOTAL OBJECTS = 1454
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 328  279  403   (0.05 s)
+		Matched 57 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 57 objects remain. (0.61 s)
+	LOOP=0: TOTAL OBJECTS = 1511
+		2D detections per active camera: 271  347  223   (0.03 s)
+		Matched 5 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 5 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1516
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 266  338  342   (0.04 s)
+		Matched 104 objects. ( 2D tol: 0.50, t:0.05 s)	After shaking: 104 objects remain. (0.62 s)
+	LOOP=0: TOTAL OBJECTS = 1620
+		2D detections per active camera: 162  234  238   (0.04 s)
+		Matched 6 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 6 objects remain. (0.49 s)
+	LOOP=1: TOTAL OBJECTS = 1626
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 218  232  229   (0.05 s)
+		Matched 74 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 74 objects remain. (0.68 s)
+	LOOP=0: TOTAL OBJECTS = 1700
+		2D detections per active camera: 159  156  145   (0.03 s)
+		Matched 11 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 11 objects remain. (0.43 s)
+	LOOP=1: TOTAL OBJECTS = 1711
+IPR FINISH! FOUND 1711 OBJECTS.
+ Remove overlap: 0.71 s.
+ Linking: 0.12 s. Done!
+ Pruning time: 0.01 s
+	No. of active short tracks: 1320 + 467 - 446 = 1341
+	No. of active long tracks: 8356 + 369 - 392 = 8333
+	No. of exited long tracks: 3281 + 339 = 3620
+	No. of exited short tracks(deleted): 34
+	No. of inactive Long tracks: 35 + 5 = 40
+	No. of fail shaking intensity/repeated: 5
+	No. of fail linear fit: 14
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 19: 19.65
+
+Convergence phase at frame 20
+ Prediction: 0.07 s. Done!
+ Shake prediction: 7.75 s.
+ START IPR...
+Full cameras
+Combination 0 cams=[0, 1, 2, 3]
+		2D detections per active camera: 1784  1757  1793  1824   (0.13 s)
+		Matched 1177 objects. ( 2D tol: 0.50, t:0.28 s)	After shaking: 1177 objects remain. (2.06 s)
+	LOOP=0: TOTAL OBJECTS = 1177
+		2D detections per active camera: 616  632  591  655   (0.05 s)
+		Matched 119 objects. ( 2D tol: 0.75, t:0.06 s)	After shaking: 119 objects remain. (0.63 s)
+	LOOP=1: TOTAL OBJECTS = 1296
+		2D detections per active camera: 502  538  474  520   (0.02 s)
+		Matched 62 objects. ( 2D tol: 1.12, t:0.05 s)	After shaking: 62 objects remain. (0.48 s)
+	LOOP=2: TOTAL OBJECTS = 1358
+		2D detections per active camera: 442  457  412  482   (0.03 s)
+		Matched 11 objects. ( 2D tol: 1.69, t:0.05 s)	After shaking: 11 objects remain. (0.44 s)
+	LOOP=3: TOTAL OBJECTS = 1369
+Reduced cameras
+Combination 0 cams=[0, 1, 2]
+		2D detections per active camera: 432  472  404   (0.03 s)
+		Matched 98 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 98 objects remain. (0.61 s)
+	LOOP=0: TOTAL OBJECTS = 1467
+		2D detections per active camera: 334  374  306   (0.04 s)
+		Matched 6 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 6 objects remain. (0.42 s)
+	LOOP=1: TOTAL OBJECTS = 1473
+Combination 1 cams=[0, 1, 3]
+		2D detections per active camera: 328  301  447   (0.02 s)
+		Matched 64 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 64 objects remain. (0.53 s)
+	LOOP=0: TOTAL OBJECTS = 1537
+		2D detections per active camera: 264  383  237   (0.04 s)
+		Matched 9 objects. ( 2D tol: 0.75, t:0.02 s)	After shaking: 9 objects remain. (0.48 s)
+	LOOP=1: TOTAL OBJECTS = 1546
+Combination 2 cams=[0, 2, 3]
+		2D detections per active camera: 256  374  368   (0.05 s)
+		Matched 114 objects. ( 2D tol: 0.50, t:0.04 s)	After shaking: 114 objects remain. (0.65 s)
+	LOOP=0: TOTAL OBJECTS = 1660
+		2D detections per active camera: 143  259  254   (0.08 s)
+		Matched 9 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 9 objects remain. (0.48 s)
+	LOOP=1: TOTAL OBJECTS = 1669
+Combination 3 cams=[1, 2, 3]
+		2D detections per active camera: 228  252  245   (0.05 s)
+		Matched 97 objects. ( 2D tol: 0.50, t:0.02 s)	After shaking: 97 objects remain. (0.58 s)
+	LOOP=0: TOTAL OBJECTS = 1766
+		2D detections per active camera: 155  150  131   (0.02 s)
+		Matched 7 objects. ( 2D tol: 0.75, t:0.01 s)	After shaking: 7 objects remain. (0.47 s)
+	LOOP=1: TOTAL OBJECTS = 1773
+IPR FINISH! FOUND 1773 OBJECTS.
+ Remove overlap: 0.80 s.
+ Linking: 0.22 s. Done!
+ Pruning time: 0.02 s
+ VSC Accumulate: 0 points (0.77 s)
+	No. of active short tracks: 1341 + 510 - 513 = 1338
+	No. of active long tracks: 8333 + 435 - 410 = 8358
+	No. of exited long tracks: 3620 + 369 = 3989
+	No. of exited short tracks(deleted): 30
+	No. of inactive Long tracks: 40 + 4 = 44
+	No. of fail shaking intensity/repeated: 6
+	No. of fail linear fit: 5
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+Total time for frame 20: 20.59
+
+Finish STB!
+Frame start: 0; Frame end: 20
+Number of initial phase frames: 4
+Output folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/
+Number of active short tracks: 1338
+Number of active long tracks: 8358
+Number of inactive long tracks: 44
+Number of exited tracks: 3989
+  Saved all tracks to folder: test/ABC_TR_0.01ppp/results 0.01ppp_STB_C/ConvergeTrack/
+
+Total time for STB: 531.48s
+
+***************
+OpenLPT finish!
+***************
+Total time 75.65947089064866 seconds
